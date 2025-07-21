@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:27:16	114/114	---M-Z	200	added ('OK')	text/plain	date:Thu,%2013%20Feb%202020%2014:47:09%20GMT	https://www.ashtangayoga.info/robots.txt		(from )
+13:27:16	54438/54438	---M-Z	200	added ('OK')	text/html	date:Mon,%2021%20Jul%202025%2017:27:16%20GMT	https://www.ashtangayoga.info/philosophy/sanskrit-and-devanagari/devanagari-learning-game/	./Devanagari-Game/www.ashtangayoga.info/philosophy/sanskrit-and-devanagari/devanagari-learning-game/index.html	(from )
