@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0"><channel><atom:id>tag:blogger.com,1999:blog-5099430026566670758</atom:id><lastBuildDate>Sun, 06 Jul 2025 03:23:01 +0000</lastBuildDate><category>Learn Pali</category><category>tools</category><category>translations</category><category>aspect &amp; mood</category><category>agreement</category><category>clauses</category><category>participle</category><category>pronouns</category><category>agent noun</category><category>anusvāra</category><category>augment</category><category>auxiliary</category><category>declension</category><category>dictionary lookup</category><category>niggahīta</category><category>noun attributes</category><category>passive</category><category>sutta numbering</category><category>accusative</category><category>adjectives</category><category>adverbial</category><category>alphabet</category><category>antecedent</category><category>base</category><category>derived verbs</category><category>double accusatives</category><category>gerundive</category><category>instrumental</category><category>morphology</category><category>pronunciation</category><category>relative adverb</category><category>root</category><category>stem</category><category>subject object</category><category>syntax</category><category>word order</category><category>&#39;to be&#39;</category><category>-in</category><category>AN</category><category>DPR</category><category>Digital Pali Reader</category><category>PED lookup tool</category><category>PTS Lookup</category><category>SN</category><category>Tense system</category><category>ablative</category><category>absolutes</category><category>absolutive</category><category>abstract noun</category><category>action noun</category><category>adverb</category><category>agent</category><category>aorist</category><category>apposition</category><category>articles</category><category>assimilation</category><category>case</category><category>causatives</category><category>co-relative</category><category>comparatives</category><category>complements</category><category>compounds</category><category>conditional</category><category>conditional clause</category><category>conjugation</category><category>conjunction</category><category>copluars</category><category>dative</category><category>denominatives</category><category>desideratives</category><category>diacritics</category><category>finding a Pali inflection</category><category>future</category><category>genitive</category><category>gerund</category><category>grammar</category><category>identify a suffix</category><category>if clause</category><category>imperative</category><category>indeclinable</category><category>indicative</category><category>infinitive</category><category>inflection</category><category>intensives</category><category>iti</category><category>locative</category><category>middle voice</category><category>negation</category><category>nominal adjectives</category><category>nominative</category><category>non-finite</category><category>numerals</category><category>optative</category><category>pali characters</category><category>pali diacritics</category><category>parse a suffix</category><category>past</category><category>patient</category><category>place</category><category>pronominals</category><category>questions</category><category>reduplication</category><category>reflexive</category><category>relative</category><category>repetition</category><category>sentence diagrams</category><category>special bases</category><category>superlatives</category><category>tense</category><category>time</category><category>verb stems</category><category>verbal adjectives</category><category>vocative</category><category>ṁ</category><title>Learn Pali Language</title><description>Pali language grammar tutorials. Learn to read the Pali language for yourself.</description><link>https://palistudies.blogspot.com/</link><managingEditor>noreply@blogger.com (Unknown)</managingEditor><generator>Blogger</generator><openSearch:totalResults>45</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-7618551221375183148</guid><pubDate>Sun, 09 Oct 2022 14:10:00 +0000</pubDate><atom:updated>2022-10-31T10:10:19.063+00:00</atom:updated><title>PTS reference converter: Khuddaka Nikaya</title><atom:summary type="text">	
+  table {clear:both; border:0; margin: 1em 0; line-height:1.6;}
+  .cat {font-size: 0.87em;  line-height:1.8; width:100%}
+  td,th {padding:0 0.6em; text-align: left;}
+  th {color:#004080}
+  .ctr {text-align: center;}
+  .brd { border-bottom: 2px solid #4f81bd;}
+  nb {display:inline-block; float: right; width:80%; margin: 0.5em auto; line-height:1.6; font-size:0.85em; padding: 0.5em; border:1px </atom:summary><link>https://palistudies.blogspot.com/2022/10/pts-reference-converter-khuddaka-nikaya.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/oz92t7QLWek/default.jpg" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-1597232652693081752</guid><pubDate>Fri, 31 Jan 2020 12:33:00 +0000</pubDate><atom:updated>2022-10-31T10:11:10.142+00:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">PTS Lookup</category><category domain="http://www.blogger.com/atom/ns#">sutta numbering</category><category domain="http://www.blogger.com/atom/ns#">tools</category><title>Sutta Number to  PTS reference converter</title><atom:summary type="text">
+  table {clear:both; min-width:80%; border:0; margin: 1em 0; line-height:1.6;}
+  .cat {font-size: 0.9em;  line-height:1.8;  width:100%;}
+  td, th {padding:0 0.6em; text-align: left;}
+  th {color:#004080}
+  .brd { border-bottom: 2px solid #4f81bd;}
+  .flx {display:flex; flex-flow:row wrap; justify-content:space-around; align-items:top; gap:1em;}
+  nb {display:block; float:right; max-width:46%; </atom:summary><link>https://palistudies.blogspot.com/2020/02/sutta-number-to-pts-reference-converter.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://img.youtube.com/vi/oz92t7QLWek/default.jpg" height="72" width="72"/><thr:total>2</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-3101620951505884325</guid><pubDate>Fri, 31 Jan 2020 12:32:00 +0000</pubDate><atom:updated>2022-11-12T09:49:55.644+00:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">translations</category><title>Attadanda Sutta Snp 4.15 | Translation guide</title><atom:summary type="text">
+
+//.container {width: 780px; margin: 32px 11%; color: #292929; font: normal normal 20.2px Lora, serif; line-height: 2;}
+  table{border:0;font-size:0.94em; }
+  th, td {padding:1px 5px;  text-align:center;}
+  tr.bg1 td, tr.bg2 td {line-height: 1.5; padding-top:10px}
+  tr.bg3 td {font-size:0.9em; line-height: 1; color:grey}
+  .flx, line {display:flex; flex-flow:row wrap; </atom:summary><link>https://palistudies.blogspot.com/2020/01/attadanda-sutta-snp-415-translation.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWnEEIzZmo3Dwgp1syDd6qwb7FGAHMqadMD4QbT8sK3uLoe24AkpSLqGT3_nYNGN41HAqTJ5chqsBVz_biWro7Q7eqbknPgysPuJFpAkAR_1klI3AAZQhbzJ6TWGQAQZBVtFXKy7NmHpI/s72-c" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-8915624363402246288</guid><pubDate>Thu, 30 Jan 2020 16:17:00 +0000</pubDate><atom:updated>2022-12-02T15:16:21.376+00:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">translations</category><title>Karaniya Metta Sutta Snp 1.8 | translation guide</title><atom:summary type="text">
+  table{ border:0; font-size:0.95em;}
+  th, td {padding:1px 5px;  text-align:center;}
+  tr.bg1 td, tr.bg2 td {font-size:100%; line-height: 1.5; padding-top:10px}
+  tr.bg2 td {font-style:italic}
+  tr.bg3 td {font-size:0.9em; line-height: 1; color:grey}
+  line {display:flex; flex-flow:row wrap; justify-content:space-around; align-items:baseline; margin:0; margin-bottom:1em;}
+  nb {display:block; </atom:summary><link>https://palistudies.blogspot.com/2020/01/karaniya-metta-sutta-snp-18-translation.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib4gUen2gR_BA9gG7cRgS6i_hurV3TQ4PISu2gxKSd_Gw3Xs3jV3RSuvTCPTcM33xX9mdsW9x-YxW9H8ujTu-QAV1CE9X6MB81fBAhZE6jSy7RIVu2koB0J5lnTyR9mIpg0ZE6wMtWusDdjUW6ZLa37BxPraxGQQvYO6oxER7Yj0QysNoI5lX2mByu/s72-c/Metta%20Sutta.jpg" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-8036313841299301843</guid><pubDate>Sun, 10 Nov 2019 15:33:00 +0000</pubDate><atom:updated>2022-10-31T10:12:04.175+00:00</atom:updated><title>What is Pali Language? A little history</title><atom:summary type="text">
+  table {font-size:92%; border:0; text-align:center; line-height:1.6em;}
+  td {padding:3px 3px;}
+  th {color:#004080; line-height:1.2em; padding:3px 7px;}
+  .in {font-size:1.1em; font-style:itallic; font-weight:bold; margin:1em; 7%;}
+  .in:before {content:&quot;\0022&quot;}
+  .in:after {content:&quot;\0022&quot;}
+
+
+
+In all these grammar tutorials we have never stopped to ask:
+
+What is Pali?”
+“What does the word </atom:summary><link>https://palistudies.blogspot.com/2019/11/what-is-pali-language-little-history.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExbLoYljoh5j8iXOIf-WYxnwm9VCYNlndeM07v5QbEqxy8txz0SzsinSkIjdVrz62vcsMxn5W_3nRmaErEVArR-jriKOab59pw40sYYzeC2_dR-Jt25Z1HW9lI47bShCVIJRVpCvyOIc/s72-c-rw/" height="72" width="72"/><thr:total>5</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-6706105630686683233</guid><pubDate>Wed, 16 Oct 2019 11:29:00 +0000</pubDate><atom:updated>2022-07-02T18:27:04.410+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">translations</category><title>Dhamma section | Satipatthāna Sutta | Translation guide</title><atom:summary type="text">
+
+This the final section of the Satipatthāna&amp;nbsp;sutta deals with dhamma which literally translates as:
+
+&#39;to hold , bear (also bring forth)&#39;.&amp;nbsp;
+
+As to what this term represents, whole books have been written! Here, in common with I think most translators, I take it in it&#39;s technical sense as the object to &#39;manas&#39;; the constituents of mind, or knowable things; what is available to inner </atom:summary><link>https://palistudies.blogspot.com/2019/10/dhamma-section-satipatthana-sutta.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQw8oMLX6K_m6Sou0xDhv3Pyaz1u6PVFjBZQtH6XhzJ4RcdAtqstzrI4y7VOCnpdgOAZFgKWTW-MtgpsIp7rP2Gdu8-mt-RoA8OeVH5EYG36KkbGwJtz_tmCumQZYAu982Pq7KYK6n5qw/s72-c" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-1318058607501801103</guid><pubDate>Mon, 14 Oct 2019 12:15:00 +0000</pubDate><atom:updated>2022-11-09T14:15:53.035+00:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">alphabet</category><category domain="http://www.blogger.com/atom/ns#">pronunciation</category><title>Syllables and Stress</title><atom:summary type="text">
+    nb {display:block; float: right; max-width:45%; margin: 0.5em auto; padding: 0.5em; border:1px grey solid; }
+.fb-row { display: flex; flex-flow: row wrap; align-contents: flex-start; align-items: flex-end; gap:2em; padding-top:1em;}
+td {margin:0.5em 0; padding:0; max-width:min-content; text-align:center;}
+td.sep, td.an  {padding:0 0.5em;}
+td.an {margin:0.7em 0; font-weight:bold; </atom:summary><link>https://palistudies.blogspot.com/2019/10/syllables-and-stress.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjatw70YqMjyS2IKUdKflTxvO3zNMZuJvrd21DV_vhgDTUYySXtZCDmgZNowqFtagoQoUFQsNy3xDP2Ic2dYt_3r3TpN8fDjQ7LmI2CfhcsgWsfkdGYdmag5FP4ueVWD9nrW54sa7bIAXE/s72-c/syllable_stress.gif" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-7140988220733030965</guid><pubDate>Fri, 23 Aug 2019 11:40:00 +0000</pubDate><atom:updated>2022-08-23T22:14:30.430+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">anusvāra</category><category domain="http://www.blogger.com/atom/ns#">niggahīta</category><category domain="http://www.blogger.com/atom/ns#">pali characters</category><category domain="http://www.blogger.com/atom/ns#">pali diacritics</category><category domain="http://www.blogger.com/atom/ns#">PED lookup tool</category><category domain="http://www.blogger.com/atom/ns#">tools</category><title> Velthuis to Diacritics converter &amp; Pali Dictionary Lookup Tool</title><atom:summary type="text">
+    .hide {
+        display: none;
+    }
+    
+    .resp-block {
+        display: inline-block;
+        max-width: 55%;
+        text-align: center;
+        float: left;
+    }
+    
+    #left {
+        margin-right: 1em;
+    }
+    
+    #box {
+        display: none;
+        position: fixed;
+        font-size: 1.1em;
+        top: 5%;
+        left: 5%;
+        border: 1px solid #000;
+        width: 40</atom:summary><link>https://palistudies.blogspot.com/2019/08/velthuis-to-diacritics-converter-pali.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTupuLAPbIxlqGwCpfNNGxrSAemhmk-82SoZkHLpUhVNi3o-8Ahou-pEB5Euh2oIobUOviBqyGDA6N4Ss2Ll-iZ_lN-Yw2iSrTMBHLStqelFsv3ER3vaCp-bRaMIzQw0r8RTFZF-3pDoI/s72-c/loading.gif" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-7902734077898035529</guid><pubDate>Wed, 08 May 2019 16:45:00 +0000</pubDate><atom:updated>2020-05-29T09:44:23.719+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">translations</category><title>Vedanā &amp; Citta sections | Satipatthāna Sutta | Translation guide</title><atom:summary type="text">
+This post continues the translation of the Satipatthāna Sutta and expounds the sections on Vedanā &amp;amp; Citta.
+
+Much of the translation hinges on how these two terms are themselves interpreted.
+
+Vedanā is generally seen as the sensations/feelings aroused by perception and is understood as feelings of pleasant, unpleasant, or neither. This is the bare affective quality of an experience, or </atom:summary><link>https://palistudies.blogspot.com/2019/05/vedana-citta-sections-satipatthana.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQw8oMLX6K_m6Sou0xDhv3Pyaz1u6PVFjBZQtH6XhzJ4RcdAtqstzrI4y7VOCnpdgOAZFgKWTW-MtgpsIp7rP2Gdu8-mt-RoA8OeVH5EYG36KkbGwJtz_tmCumQZYAu982Pq7KYK6n5qw/s72-c" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-3352088285452499808</guid><pubDate>Mon, 08 Apr 2019 16:04:00 +0000</pubDate><atom:updated>2022-07-02T18:30:27.122+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">translations</category><title>Intro &amp; Kāya section | Satipatthāna Sutta | Translation guide</title><atom:summary type="text">
+The Satipatthāna Sutta can be found in two forms: 
+
+Majjhima Nikaya 10 (MN 10), &amp;amp; 
+Digha Nikaya 22 (DN 22)
+
+There are also, I believe, versions in the Chinese&amp;nbsp;āgama:
+
+
+
+Madhyama Āgama No. 26 &amp;amp; 
+ Ekottarika Āgama 12.1 
+
+The term satipaṭṭhāna is a compound of sati, (mindfulness) and either paṭṭhāna, (foundation) or upaṭṭhāna, (presence). The compound term could thus be interpreted as </atom:summary><link>https://palistudies.blogspot.com/2019/04/intro-kaya-section-satipatthana-sutta.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQw8oMLX6K_m6Sou0xDhv3Pyaz1u6PVFjBZQtH6XhzJ4RcdAtqstzrI4y7VOCnpdgOAZFgKWTW-MtgpsIp7rP2Gdu8-mt-RoA8OeVH5EYG36KkbGwJtz_tmCumQZYAu982Pq7KYK6n5qw/s72-c" height="72" width="72"/><thr:total>1</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-372285547792269523</guid><pubDate>Tue, 02 Apr 2019 10:48:00 +0000</pubDate><atom:updated>2024-08-08T13:48:11.669+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">-in</category><category domain="http://www.blogger.com/atom/ns#">agent noun</category><category domain="http://www.blogger.com/atom/ns#">nominal adjectives</category><category domain="http://www.blogger.com/atom/ns#">verbal adjectives</category><title> Pali Adjectival Suffixes</title><atom:summary type="text">
+  .note {text-align:center; font-size:90%; color:grey; margin:1em 8%;}
+  .in{line-height: 1.5; margin-left: 5%; margin-bottom:0.8em}
+  table{font-size:90%; border:0; line-height: 1.6;}
+  th, td {padding:3px 5px;  text-align:center;}
+  th {color:#004080}
+  caption {color:#004080; font-size:110%; text-align:left}
+  div.resp-container{margin:1.2em 0;}
+  .brd td {border: 1px solid #4f81bd;}
+  </atom:summary><link>https://palistudies.blogspot.com/2018/11/adjectival-suffixes.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtu9m0MLE0xGVdGFZarZGinBHzKpWk7KpQdmdOkBbU3Jnnz-UM1Mfw7EZAyYM7e9qIP_plKTH8img3ky4rp2SxFZTJVt9NueXwK46YOYah8oCeytc4euLDt3p_JbCVHkky31y105NvgYg/s72-c/Adjectives.jpg" height="72" width="72"/><thr:total>3</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-5007179234117192265</guid><pubDate>Wed, 20 Mar 2019 12:06:00 +0000</pubDate><atom:updated>2022-12-03T16:24:30.661+00:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">SN</category><category domain="http://www.blogger.com/atom/ns#">translations</category><title>Pheṇapiṇḍūpama Sutta SN 22.95 | translation guide</title><atom:summary type="text">
+	
+	table{border:0; font-size:0.9em;}
+	th {text-align:left;}
+	td {padding:1px 5px;  text-align:center;}
+	tr.bg1 td, tr.bg2 td {line-height: 1.5; padding-top:10px}
+	tr.bg1 td, tr.bg3 td {  overflow: hidden;  text-overflow: ellipsis;  white-space: nowrap;}
+	tr.bg3 td {font-size:0.85em; line-height: 1; color:grey}
+	line {display:flex; flex-flow:column wrap; align-items:center; margin:0 0 0.5em 0;}
+	</atom:summary><link>https://palistudies.blogspot.com/2019/03/phenapindupama-sutta-sn-2295.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHjmz_J8kYmekyTFOylSwdvvgk9wtANhl4ny8UFuDlskli2Yc3j6oF7NP808sbKVIlbTed-u63Ubgan7C_EgzVKkaCvtnPjDxHsX7KrJZtOam9gFcPoBau8CcwYhTmx3NXbWqNxDb4QX2GpQ2aiZUN3pju4jtKLC3dhQRnMVC2AKVQKCsVb0CUFFIR/s72-c/foam.jpg" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-4944314481819125930</guid><pubDate>Tue, 19 Mar 2019 13:35:00 +0000</pubDate><atom:updated>2022-12-02T15:33:30.117+00:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">AN</category><category domain="http://www.blogger.com/atom/ns#">translations</category><title>Aṅguttara Nikāya: Book of Ones | Translation guide</title><atom:summary type="text">
+	
+	table{border:0; font-size:0.9em;}
+	th {text-align:left;}
+	td {padding:1px 5px;  text-align:center;}
+	tr.bg1 td, tr.bg2 td {line-height: 1.5; padding-top:10px}
+	tr.bg1 td, tr.bg3 td {  overflow: hidden;  text-overflow: ellipsis;  white-space: nowrap;}
+	tr.bg3 td {font-size:0.85em; line-height: 1; color:grey}
+	line {display:flex; flex-flow:column wrap; align-items:center; margin:0;}
+	row {</atom:summary><link>https://palistudies.blogspot.com/2019/03/a-translation-of-anguttara-nikaya-book.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDFA4zrt7K_B9yf0lYeXc1SnUWojVMDF8pjnoa5QPiu7KsMTNFJiVOXHJiFPoLEl845WlpA7OpSMwp7KuIOj771VhVPkpNsLDluAXYQKbSb-02D0MyP19my5-JIzVKCA2mE7-1IRCa8EU/s72-c/fe8cc049cb689c207df40f054d9bc040_XL.jpg" height="72" width="72"/><thr:total>5</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-3328276187991326896</guid><pubDate>Thu, 20 Dec 2018 16:56:00 +0000</pubDate><atom:updated>2022-07-26T10:48:52.259+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">grammar</category><category domain="http://www.blogger.com/atom/ns#">morphology</category><category domain="http://www.blogger.com/atom/ns#">syntax</category><title>Grammar?</title><atom:summary type="text">
+  .note {text-align:center; font-size:90%; color:grey; margin:1em 8%;}
+  .in{line-height: 1.5; margin-left: 5%; margin-bottom:0.8em}
+  table{font-size:90%; border:0; line-height: 1.6;}
+  th,td {padding:3px 3px; }
+  .st {padding-left:2em; }
+  th {color:#004080}
+  caption {color:#004080; font-size:110%; text-align:left}
+  div.resp-container{margin:1.2em 0;}
+  .bg1 {background:#ffffcc}
+  .bg2 {</atom:summary><link>https://palistudies.blogspot.com/2018/12/grammar.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4glSoRbmwhYTEOHYWjp6pFrNpZrS7kA0tWwCkTjzU-fRlHc-rJ3ws-owx-9EbDRU3VWXP7RLDE6Lo3juj9UUmC6sSsvSkovdHSTKeX0mmp3TwmzUcB8Tg9iLoIpsUjKGJt8d4mVyG4rE/s72-c/ancient_grammar_police.jpg" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-4243529805076259303</guid><pubDate>Mon, 24 Sep 2018 17:07:00 +0000</pubDate><atom:updated>2022-08-22T16:19:29.809+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">gerundive</category><category domain="http://www.blogger.com/atom/ns#">participle</category><title>Derivation of Participles</title><atom:summary type="text">
+  .note {text-align:center; font-size:90%; color:grey; margin:1em 8%;}
+  .in{line-height: 1.5; margin-left: 8%; margin-bottom:0.8em}
+  table{font-size:90%; border:0; line-height: 1.6;}
+  th, td {padding:3px 5px;  text-align:center;}
+  th {color:#004080}
+  caption {color:#004080; font-size:110%; text-align:left}
+  div.resp-container{margin:1.2em 0;}
+  .brd td {border: 1px solid #4f81bd;}
+  </atom:summary><link>https://palistudies.blogspot.com/2018/09/formation-of-participles-in-pali.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-BchPNdR2xxbFuAUWw3xRNNegZRVNV545wJ03LVtqwvSP5UtVEg3V-fTqHSDE2LPuEEet_g2E4d3a6Pt5zXYtav1ugyDJoxuRGdSBMjxDFPyPS5PsWsO6QluVmwKTumo56IcLR4pf_SY/s72-c/participles+verbs+%2526+adjectives.jpg" height="72" width="72"/><thr:total>0</thr:total></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-5099430026566670758.post-3269584432118799289</guid><pubDate>Tue, 11 Sep 2018 11:17:00 +0000</pubDate><atom:updated>2022-07-25T15:52:19.338+01:00</atom:updated><category domain="http://www.blogger.com/atom/ns#">augment</category><category domain="http://www.blogger.com/atom/ns#">derived verbs</category><category domain="http://www.blogger.com/atom/ns#">special bases</category><category domain="http://www.blogger.com/atom/ns#">Tense system</category><category domain="http://www.blogger.com/atom/ns#">verb stems</category><title>A Theory of Pali tense</title><atom:summary type="text">
+  div.resp-container{margin:1.2em 0;}
+  .in{line-height: 1.5; margin-left: 5%; margin-bottom:0.8em}
+  table{font-size:90%; border:0; line-height: 1.6;}
+  th, td {padding:3px 5px;  text-align:center;}
+  th {color:#4682B4}
+  .bg1 {background:#ffffcc}
+  .bg2 {background:#d5f4ed}
+  .bg3 {background:#ccffcc}
+
+
+
+
+One of the main problems facing the novice student learning Pali is understanding the </atom:summary><link>https://palistudies.blogspot.com/2018/09/a-theory-of-pali-tense.html</link><author>noreply@blogger.com (Unknown)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMP9pKPALRk2l_B2NeXMCtc3P8d4K-O4H8iw6OJkxhMFgUvttmicvK8_CYvJkxxVuITnJ_JaXTNcEPs-h8uBZf2VslAXvd2rvoT0VlkpMTbtKwOLIB1Ltf7ydC1zDv_q-IfIYPB7M-Uo/s72-c/What-is-going-on.jpg" height="72" width="72"/><thr:total>0</thr:total></item></channel></rss>
