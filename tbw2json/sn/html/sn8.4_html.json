@@ -1,8 +1,0 @@
-{
-  "sn8.4:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n501\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}</span></span></span>{}</p>",
-  "sn8.4:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n502\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<a href=\"#v723\">{}</a>{}</span></span></span></p>",
-  "sn8.4:1.0.3": "<p class=\"verse\" id=\"p3\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n503\"><span class=\"details\"><span class=\"p\">{}<a href=\"../tha/tha21.html#p1224\">{}</a>{}<i>{}</i>{}<a href=\"../an/an4.49.html#p4\">{}</a>{}</span></span></span></p>",
-  "sn8.4:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n504\"><span class=\"details\"><span class=\"p\">{}<a href=\"../tha/tha20.html#p1160\">{}</a>{}</span></span></span></p>",
-  "sn8.4:1.0.5": "<p class=\"verse\" id=\"p5\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n505\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn12.11.html\">{}</a>{}<i>{}</i>{}<a href=\"sn51.20.html\">{}</a>{}<a href=\"sn46.57.html\">{}</a>{}</span></span></span></p>",
-  "sn8.4:1.0.6": "<p class=\"verse\" id=\"p6\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n506\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span></p>"
-}

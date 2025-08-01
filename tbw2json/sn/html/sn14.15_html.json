@@ -1,7 +1,0 @@
-{
-  "sn14.15:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn14.15:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n243\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
-  "sn14.15:1.0.3": "<p id=\"p3\">{}</p>",
-  "sn14.15:1.0.4": "<p id=\"p4\">{}<a class=\"pts_pn\">{}</a>{}</p>",
-  "sn14.15:1.0.5": "<p id=\"p5\">{}</p>"
-}

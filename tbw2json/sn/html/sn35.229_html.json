@@ -1,6 +1,0 @@
-{
-  "sn35.229:1.0.1": "<p id=\"p1\">{}<a class=\"pts_pn\">{}</a>{}</p>",
-  "sn35.229:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n164\"><span class=\"details\"><span class=\"p\">{}<a href=\"../it/it.html#p57\">{}</a>{}</span></span></span></p>",
-  "sn35.229:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<span class=\"add\">{}</span>{}<br/>{}<br/>{}</p>",
-  "sn35.229:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<span class=\"note\" id=\"n165\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i> <a href=\"../it/it.html#p58\">{}</a>{}<i>{}</i></span></span></span>{}<br/>{}<br/>{}</p>"
-}

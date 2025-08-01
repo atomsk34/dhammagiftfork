@@ -1,5 +1,0 @@
-{
-  "sn55.21:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn55.21:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n338\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}<a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n339\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn42.6.html\">{}</a>{}</span></span></span></p>",
-  "sn55.21:1.0.3": "<p id=\"p3\">{}<a class=\"pts_pn\">{}</a></p>"
-}

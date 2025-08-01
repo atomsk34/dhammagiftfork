@@ -1,6 +1,0 @@
-{
-  "sn2.5:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn2.5:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n147\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span></p>",
-  "sn2.5:1.0.3": "<p class=\"verse\" id=\"p3\"><span class=\"add\">{}</span>{}<br/><span class=\"add\">{}</span>{}<br/>{}<br/>{}<a class=\"pts_pn\">{}</a>\n<br/>{}<br/>{}<br/>{}</p>",
-  "sn2.5:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n148\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn1.1.html\">{}</a>{}<a href=\"sn1.html#n2\">{}</a>{}<i>{}</i>{}</span></span></span></p>"
-}

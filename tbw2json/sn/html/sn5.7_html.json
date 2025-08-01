@@ -1,8 +1,0 @@
-{
-  "sn5.7:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn5.7:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<span class=\"add\">{}</span>\n<br/>{}<span class=\"note\" id=\"n353\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
-  "sn5.7:1.0.3": "<p class=\"verse\" id=\"p3\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn5.7:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn5.7:1.0.5": "<p class=\"verse\" id=\"p5\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n354\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
-  "sn5.7:1.0.6": "<p id=\"p6\">{}</p>"
-}

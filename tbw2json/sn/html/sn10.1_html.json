@@ -1,6 +1,0 @@
-{
-  "sn10.1:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n558\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}</span></span></span>{}</p>",
-  "sn10.1:1.0.2": "<p class=\"verse\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n559\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<br class=\"half\"/>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
-  "sn10.1:1.0.3": "<p class=\"verse\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn10.1:1.0.4": "<p class=\"verse\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n560\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>"
-}

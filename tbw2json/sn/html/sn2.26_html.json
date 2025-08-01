@@ -1,7 +1,0 @@
-{
-  "sn2.26:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn2.26:1.0.2": "<p id=\"p2\">{}</p>",
-  "sn2.26:1.0.3": "<p id=\"p3\">{}<a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n181\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn20.6.html\">{}</a>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn8.1.html#v708\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn8.1.html#n488\">{}</a>{}<i>{}</i>{}<a href=\"sn4.1.html#n264\">{}</a>{}</span></span></span>{}</p>",
-  "sn2.26:1.0.4": "<p id=\"p4\">{}</p>",
-  "sn2.26:1.0.5": "<p id=\"p5\">{}<span class=\"note\" id=\"n182\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<br class=\"half\"/>{}<a href=\"sn35.116.html\">{}</a>{}</span>\n<br class=\"half\"/><span class=\"p\">{}<a href=\"sn12.44.html\">{}</a>{}<a href=\"sn35.107.html\">{}</a>{}</span></span></span></p>"
-}

@@ -1,8 +1,0 @@
-{
-  "sn36.12:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn36.12:1.0.2": "<p class=\"verse\" id=\"p2\">{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn36.12:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn36.12:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn36.12:1.0.5": "<p class=\"verse\" id=\"p5\">{}<span class=\"note\" id=\"n243\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn36.3.html\">{}</a>{}<i>{}</i>{}<i>{}</i></span></span></span>\n<br/>{}<br/>{}<br/>{}</p>",
-  "sn36.12:1.0.6": "<p class=\"verse\" id=\"p6\">{}<br/>{}<br/>{}<br/>{}<a class=\"pts_pn\">{}</a></p>"
-}

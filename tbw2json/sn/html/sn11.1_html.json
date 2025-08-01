@@ -1,5 +1,0 @@
-{
-  "sn11.1:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn11.1:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n605\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn35.248.html\">{}</a>{}<br class=\"half\"/><a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<a href=\"sn6.6.html#n397\">{}</a>{}</span></span></span>{}<span class=\"note\" id=\"n606\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}<a class=\"pts_pn\">{}</a>{}</p>",
-  "sn11.1:1.0.8": "<p id=\"p8\">{}<span class=\"note\" id=\"n609\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}</p>"
-}

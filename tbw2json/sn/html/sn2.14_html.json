@@ -1,6 +1,0 @@
-{
-  "sn2.14:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn2.14:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}</p>",
-  "sn2.14:1.0.3": "<p class=\"verse\" id=\"p3\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn2.14:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
-}

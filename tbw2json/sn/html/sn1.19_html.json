@@ -1,7 +1,0 @@
-{
-  "sn1.19:1.0.1": "<p class=\"verse\" id=\"p1\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn1.19:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n29\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span></p>",
-  "sn1.19:1.0.3": "<p class=\"verse\" id=\"p3\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n30\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<br class=\"half\"/>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i></span></span></span></p>",
-  "sn1.19:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn1.19:1.0.5": "<p class=\"verse\" id=\"p5\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
-}

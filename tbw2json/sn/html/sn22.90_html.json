@@ -1,9 +1,0 @@
-{
-  "sn22.90:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n179\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<a href=\"../dn/dn16.html\">{}</a>{}<i>{}</i>{}</span></span></span></p>",
-  "sn22.90:1.0.2": "<p id=\"p2\">{}<a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n180\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<br class=\"half\"/>{}<a href=\"../mn/mn35.html\">{}</a>{}</span></span></span></p>",
-  "sn22.90:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n181\"><span class=\"details\"><span class=\"p\">{}<i>{}</i> <a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn22.82.html\">{}</a>{}<a href=\"sn22.82.html#n142\">{}</a>{}<br class=\"half\"/>{}<i>{}</i>{}</span></span></span>{}</p>",
-  "sn22.90:1.0.4": "<p>{}<br class=\"half\"/>{}<a class=\"pts_pn\">{}</a>{}</p>",
-  "sn22.90:1.0.8": "<p id=\"p8\">{}<span class=\"note\" id=\"n182\"><span class=\"details\"><span class=\"p\">{}<i>{}</i> <a href=\"../mn/mn16.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}</p>",
-  "sn22.90:1.0.9": "<p id=\"p9\"><span class=\"add\">{}</span>{}</p>",
-  "sn22.90:1.0.10": "<p id=\"p10\">{}</p>"
-}

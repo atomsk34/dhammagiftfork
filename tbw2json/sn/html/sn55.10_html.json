@@ -1,7 +1,0 @@
-{
-  "sn55.10:1.0.1": "<p id=\"p1\">{}</p>",
-  "sn55.10:1.0.2": "<p id=\"p2\">{}<a class=\"pts_pn\">{}</a>{}</p>",
-  "sn55.10:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n332\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}</span></span></span></p>",
-  "sn55.10:1.0.4": "<p id=\"p4\">{}</p>",
-  "sn55.10:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\">{}</a></p>"
-}
