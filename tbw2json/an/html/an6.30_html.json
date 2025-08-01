@@ -1,0 +1,13 @@
+{
+  "an6.30:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n1304\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "an6.30:1.0.2": "<p id=\"p2\">{}<a class=\"pts_pn\" id=\"an.iii.326\"></a>{}</p>",
+  "an6.30:1.0.3": "<p id=\"p3\">{}</p>",
+  "an6.30:1.0.4": "<p id=\"p4\">{}<a class=\"pts_pn\" id=\"an.iii.327\"></a>{}</p>",
+  "an6.30:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\" id=\"an.iii.328\"></a>{}</p>",
+  "an6.30:1.0.6": "<p id=\"p6\">{}</p>",
+  "an6.30:1.0.7": "<p id=\"p7\">{}<a class=\"pts_pn\" id=\"an.iii.329\"></a>{}</p>",
+  "an6.30:1.0.8": "<p id=\"p8\">{}</p>",
+  "an6.30:1.0.9": "<p class=\"verse\" id=\"p9\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an6.30:1.0.10": "<p class=\"verse\" id=\"p10\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an6.30:1.0.11": "<p class=\"verse\" id=\"p11\">{}<br/>{}<br/>{}<br/>{}</p>"
+}

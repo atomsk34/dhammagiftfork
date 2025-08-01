@@ -1,0 +1,21 @@
+{
+  "sn1.33:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn1.33:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.3": "<p id=\"p3\">{}</p>",
+  "sn1.33:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.6": "<p id=\"p6\">{}</p>",
+  "sn1.33:1.0.7": "<p class=\"verse\" id=\"p7\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.8": "<p id=\"p8\">{}</p>",
+  "sn1.33:1.0.9": "<p class=\"verse\" id=\"p9\">{}<br/>{}<a class=\"pts_pn\">{}</a>\n<br/>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.10": "<p class=\"verse\" id=\"p10\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n67\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<a href=\"../an/an4.61.html\">{}</a>{}<a href=\"../snp/snp3.10.html#p674\">{}</a>{}</span></span></span></p>",
+  "sn1.33:1.0.11": "<p id=\"p11\">{}</p>",
+  "sn1.33:1.0.12": "<p class=\"verse\" id=\"p12\">{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n68\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i> <a href=\"sn4.html#4.218\">{}</a>{}<br class=\"half\"/><a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<a href=\"sn5.8.html#n355\">{}</a>{}</span></span></span></p>",
+  "sn1.33:1.0.13": "<p class=\"verse\" id=\"p13\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.14": "<p id=\"p14\">{}</p>",
+  "sn1.33:1.0.15": "<p class=\"verse\" id=\"p15\">{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.16": "<p class=\"verse\" id=\"p16\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn1.33:1.0.17": "<p id=\"p17\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn1.33:1.0.18": "<p id=\"p18\">{}</p>",
+  "sn1.33:1.0.19": "<p class=\"verse\" id=\"p19\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n69\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn9.10.html#v785\">{}</a>{}<a href=\"sn10.6.html#v826\">{}</a>{}<i>{}</i>{}<a href=\"sn1.88.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>"
+}

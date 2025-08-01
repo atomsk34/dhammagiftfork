@@ -1,0 +1,8 @@
+{
+  "sn2.18:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn2.18:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n169\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "sn2.18:1.0.3": "<p class=\"verse\" id=\"p3\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn2.18:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn2.18:1.0.5": "<p class=\"verse\" id=\"p5\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn2.18:1.0.6": "<p class=\"verse\" id=\"p6\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n170\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn1.1.html#v1\">{}</a>{}</span></span></span></p>"
+}

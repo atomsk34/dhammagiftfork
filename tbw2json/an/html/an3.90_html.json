@@ -1,0 +1,11 @@
+{
+  "an3.90:1.0.1": "<p id=\"p1\">{}</p>",
+  "an3.90:1.0.2": "<p id=\"p2\">{}</p>",
+  "an3.90:1.0.3": "<p id=\"p3\">{}<a class=\"pts_pn\" id=\"an.i.236\"></a>{}</p>",
+  "an3.90:1.0.4": "<p id=\"p4\">{}</p>",
+  "an3.90:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an3.90:1.0.6": "<p class=\"verse\" id=\"p6\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an3.90:1.0.7": "<p class=\"verse\" id=\"p7\">{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n528\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "an3.90:1.0.8": "<p class=\"verse\" id=\"p8\">{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n529\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span></p>",
+  "an3.90:1.0.9": "<p class=\"verse\" id=\"p9\">{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n530\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span></p>"
+}

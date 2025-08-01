@@ -1,0 +1,6 @@
+{
+  "an3.51:1.0.1": "<p id=\"p1\">{}</p>",
+  "an3.51:1.0.2": "<p id=\"p2\">{}</p>",
+  "an3.51:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n408\"><span class=\"details\"><span class=\"p\">{}<a href=\"../sn/sn1.3.html\">{}</a>{}<i>{}</i>{}</span></span></span></p>",
+  "an3.51:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}<a class=\"pts_pn\" id=\"an.i.156\"></a></p>"
+}

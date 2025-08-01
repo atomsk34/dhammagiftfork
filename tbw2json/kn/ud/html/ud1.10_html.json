@@ -1,0 +1,15 @@
+{
+  "ud1.10:1.0.1": "<p id=\"p1\"><span class=\"evam\">{}</span>{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.2": "<p id=\"p2\">{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.3": "<p id=\"p3\">{}<br/>\n<br/>{}<span class=\"add\">{}</span>{}</p>",
+  "ud1.10:1.0.4": "<p id=\"p4\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<br/>\n<br/>{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.5": "<p id=\"p5\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.6": "<p id=\"p6\">{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.7": "<p id=\"p7\">{}</p>",
+  "ud1.10:1.0.8": "<p id=\"p8\">{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.9": "<p id=\"p9\">{}</p>",
+  "ud1.10:1.0.10": "<p id=\"p10\">{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.11": "<p id=\"p11\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.12": "<p id=\"p12\">{}<br/>\n<br/>{}<br/>\n<br/>{}</p>",
+  "ud1.10:1.0.13": "<p id=\"p13\">{}</p>"
+}

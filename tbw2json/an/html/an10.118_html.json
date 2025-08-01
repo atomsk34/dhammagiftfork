@@ -1,0 +1,9 @@
+{
+  "an10.118:1.0.1": "<p id=\"p1\">{}</p>",
+  "an10.118:1.0.2": "<p id=\"p2\">{}</p>",
+  "an10.118:1.0.3": "<p class=\"verse\" id=\"p3\">{}<span class=\"note\"><span class=\"details\"><span class=\"p\">{}<a href=\"../dhp/dhp76-89.html#p86\">{}</a>{}</span></span></span>\n<br/>{}<br/>{}<br/>{}<span class=\"add\">{}</span>{}</p>",
+  "an10.118:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an10.118:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an10.118:1.0.6": "<p class=\"verse\" id=\"p6\">{}<br/>{}<br/>{}<br/>{}<a class=\"pts_pn\" id=\"an.v.233\"></a></p>",
+  "an10.118:1.0.7": "<p class=\"verse\" id=\"p7\">{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<span class=\"note\"><span class=\"details\"><i>{}</i>{}</span></span></p>"
+}

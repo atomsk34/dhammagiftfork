@@ -1,0 +1,17 @@
+{
+  "an8.42:1.0.1": "<p id=\"p1\">{}</p>",
+  "an8.42:1.0.2": "<p id=\"p2\">{}</p>",
+  "an8.42:1.0.3": "<p id=\"p3\">{}</p>",
+  "an8.42:1.0.4": "<p id=\"p4\">{}</p>",
+  "an8.42:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\" id=\"an.iv.253\"></a>{}</p>",
+  "an8.42:1.0.6": "<p id=\"p6\">{}</p>",
+  "an8.42:1.0.7": "<p id=\"p7\">{}</p>",
+  "an8.42:1.0.8": "<p id=\"p8\">{}<a class=\"pts_pn\" id=\"an.iv.254\"></a>{}</p>",
+  "an8.42:1.0.9": "<p id=\"p9\">{}</p>",
+  "an8.42:1.0.10": "<p class=\"verse\" id=\"p10\">{}<span class=\"note\" id=\"n\"><span class=\"details\" id=\"n1714\"><span class=\"p\">{}<a href=\"an3/70.html\">{}</a></span></span></span>\n<br/>{}<a class=\"pts_pn\" id=\"an.i.215\"></a>\n<br/>{}<br/>{}</p>",
+  "an8.42:1.0.11": "<p class=\"verse\" id=\"p11\">{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "an8.42:1.0.12": "<p class=\"verse\" id=\"p12\">{}<br/>{}<br/>{}<br/>{}<a class=\"pts_pn\" id=\"an.iv.255\"></a></p>",
+  "an8.42:1.0.13": "<p class=\"verse\" id=\"p13\">{}<br/>{}<br/>{}<br/>{}<span class=\"italic\">{}</span>{}</p>",
+  "an8.42:1.0.14": "<p class=\"verse\" id=\"p14\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an8.42:1.0.15": "<p class=\"verse\" id=\"p15\">{}<br/>{}<br/>{}<br/>{}</p>"
+}

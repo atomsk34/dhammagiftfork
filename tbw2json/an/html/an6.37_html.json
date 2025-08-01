@@ -1,0 +1,11 @@
+{
+  "an6.37:1.0.1": "<p id=\"p1\">{}</p>",
+  "an6.37:1.0.2": "<p id=\"p2\">{}</p>",
+  "an6.37:1.0.3": "<p id=\"p3\">{}</p>",
+  "an6.37:1.0.4": "<p id=\"p4\">{}</p>",
+  "an6.37:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\" id=\"an.iii.337\"></a>{}</p>",
+  "an6.37:1.0.6": "<p class=\"verse\" id=\"p6\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an6.37:1.0.7": "<p class=\"verse\" id=\"p7\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an6.37:1.0.8": "<p class=\"verse\" id=\"p8\">{}<span class=\"note\" id=\"n1307\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}</span></span></span>\n<br/>{}<br/>{}<br/>{}</p>",
+  "an6.37:1.0.9": "<p class=\"verse\" id=\"p9\">{}<br/>{}<br/>{}<br/>{}</p>"
+}

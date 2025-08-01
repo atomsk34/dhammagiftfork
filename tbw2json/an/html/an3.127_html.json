@@ -1,0 +1,7 @@
+{
+  "an3.127:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n588\"><span class=\"details\"><span class=\"p\">{}<a href=\"../an/an1.248-257.html\">{}</a>{}<a href=\"an0-abbr.html\">{}</a>{}</span></span></span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<a class=\"pts_pn\" id=\"an.i.279\"></a></p>",
+  "an3.127:1.0.2": "<p id=\"p2\">{}</p>",
+  "an3.127:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n589\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "an3.127:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "an3.127:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<span class=\"add\">{}</span>{}<span class=\"note\" id=\"n591\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}</span></span></span>\n<br/>{}</p>"
+}

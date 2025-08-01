@@ -1,0 +1,12 @@
+{
+  "mn40:1.0.1": "<p id=\"p1\">{}</p>",
+  "mn40:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n422\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "mn40:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n423\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn7.html#p3\">{}</a>{}</span></span></span>{}</p>",
+  "mn40:1.0.4": "<p id=\"p4\">{}</p>",
+  "mn40:1.0.5": "<p id=\"p5\">{}</p>",
+  "mn40:1.0.6": "<p id=\"p6\">{}</p>",
+  "mn40:1.0.7": "<p id=\"p7\">{}</p>",
+  "mn40:1.0.8": "<p id=\"p8\">{}</p>",
+  "mn40:1.0.9": "<p id=\"p9\">{}<span class=\"note\" id=\"n424\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "mn40:1.0.10": "<p id=\"p10\">{}</p>"
+}

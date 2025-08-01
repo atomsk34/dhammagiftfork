@@ -1,0 +1,9 @@
+{
+  "sn5.9:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n357\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn5.1.html#n331\">{}</a>{}</span></span></span></p>",
+  "sn5.9:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n358\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<a href=\"#v549\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn12.17.html\">{}</a>{}<a href=\"sn12.18.html\">{}</a>{}<a href=\"sn12.24.html\">{}</a>{}<a href=\"sn12.25.html\">{}</a>{}</span></span></span></p>",
+  "sn5.9:1.0.3": "<p id=\"p3\">{}</p>",
+  "sn5.9:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn5.9:1.0.5": "<p class=\"verse\" id=\"p5\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn5.9:1.0.6": "<p class=\"verse\" id=\"p6\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n359\"><span class=\"details\"><span class=\"p\">{}<a href=\"../an/an3.76.html\">{}</a>{}<i>{}</i>{}<a href=\"sn22.54.html\">{}</a>{}</span></span></span></p>",
+  "sn5.9:1.0.7": "<p id=\"p7\">{}</p>"
+}

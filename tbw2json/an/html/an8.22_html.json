@@ -1,0 +1,15 @@
+{
+  "an8.22:1.0.1": "<p id=\"p1\">{}</p>",
+  "an8.22:1.0.2": "<p id=\"p2\">{}<a class=\"pts_pn\" id=\"an.iv.213\"></a></p>",
+  "an8.22:1.0.3": "<p id=\"p3\">{}</p>",
+  "an8.22:1.0.4": "<p id=\"p4\">{}<a class=\"pts_pn\" id=\"an.iv.210\"></a>{}<span class=\"note\" id=\"n1680a\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}</p>",
+  "an8.22:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\" id=\"an.iv.211\"></a></p>",
+  "an8.22:1.0.6": "<p id=\"p6\">{}<a class=\"pts_pn\" id=\"an.iv.215\"></a></p>",
+  "an8.22:1.0.7": "<p id=\"p7\">{}</p>",
+  "an8.22:1.0.8": "<p id=\"p8\">{}<span class=\"add\">{}</span>{}</p>",
+  "an8.22:1.0.9": "<p id=\"p9\">{}<a class=\"pts_pn\" id=\"an.iv.216\"></a></p>",
+  "an8.22:1.0.10": "<p id=\"p10\">{}<span class=\"note\" id=\"n1680\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}</p>",
+  "an8.22:1.0.11": "<p id=\"p11\">{}</p>",
+  "an8.22:1.0.12": "<p id=\"p12\">{}</p>",
+  "an8.22:1.0.13": "<p id=\"p13\"><span class=\"add\">{}</span>{}</p>"
+}

@@ -1,0 +1,20 @@
+{
+  "mn49:1.0.1": "<p id=\"p1\">{}</p>",
+  "mn49:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n499\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn1.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n500\"><span class=\"details\"><span class=\"p\">{}<a href=\"../sn/sn6.4.html\">{}</a>{}</span></span></span></p>",
+  "mn49:1.0.3": "<p id=\"p3\">{}</p>",
+  "mn49:1.0.4": "<p id=\"p4\">{}<span class=\"note\" id=\"n501\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>{}<span class=\"note\" id=\"n502\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>{}<span class=\"note\" id=\"n503\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n504\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}<span class=\"note\" id=\"n505\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}<span class=\"note\" id=\"n506\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
+  "mn49:1.0.5": "<p id=\"p5\">{}</p>",
+  "mn49:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n507\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}<a href=\"mn1.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn49:1.0.7": "<p id=\"p7\">{}</p>",
+  "mn49:1.0.8": "<p id=\"p8\">{}</p>",
+  "mn49:1.0.11": "<p id=\"p11\">{}<span class=\"note\" id=\"n508\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
+  "mn49:1.0.12": "<p id=\"p12\">{}<span class=\"add\">{}</span>{}<span class=\"note\" id=\"n509\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}<span class=\"note\" id=\"n510\"><span class=\"details\"><span class=\"p\">{}<a href=\"../dn/dn1.html#p2\">{}</a>{}<a href=\"http://www.bps.lk/library-search-select.php?id=bp209s\"><i>{}</i></a>{}</span></span></span></p>",
+  "mn49:1.0.13": "<p id=\"p13\">{}<span class=\"note\" id=\"n512\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span></p>",
+  "mn49:1.0.14": "<p id=\"p14\">{}<span class=\"note\" id=\"n513\"><span class=\"details\"><span class=\"p\">{}<br class=\"half\"/>{}<br/>{}<br/>{}<br class=\"half\"/>{}<a href=\"../dn/dn11.html#p85\">{}</a>{}<a href=\"mn0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"mn21.html#p20\">{}</a>{}<br class=\"half\"/>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span>{}<i>{}</i>{}<span class=\"add\">{}<a href=\"../an/an10.6.html\">{}</a>{}<a href=\"../an/an11.7.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn49:1.0.15": "<p id=\"p15\">{}</p>",
+  "mn49:1.0.16": "<p id=\"p16\">{}</p>",
+  "mn49:1.0.18": "<p id=\"p18\">{}</p>",
+  "mn49:1.0.19": "<p id=\"p19\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"note\" id=\"n515\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn26.html#p34\">{}</a>{}</span></span></span></p>",
+  "mn49:1.0.20": "<p id=\"p20\">{}<span class=\"note\" id=\"n516\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}</p>",
+  "mn49:1.0.21": "<p id=\"p21\">{}<span class=\"add\">{}</span>{}</p>"
+}

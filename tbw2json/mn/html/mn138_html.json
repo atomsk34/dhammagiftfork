@@ -1,0 +1,23 @@
+{
+  "mn138:1.0.1": "<p id=\"p1\">{}</p>",
+  "mn138:1.0.2": "<p id=\"p2\">{}</p>",
+  "mn138:1.0.3": "<p id=\"p3\">{}</p>",
+  "mn138:1.0.4": "<p>{}</p>",
+  "mn138:1.0.6": "<p><span class=\"add\">{}</span>{}</p>",
+  "mn138:1.0.8": "<p id=\"p8\">{}<span class=\"note\" id=\"n1250\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>{}<span class=\"note\" id=\"n1251\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "mn138:1.0.9": "<p id=\"p9\">{}</p>",
+  "mn138:1.0.10": "<p id=\"p10\">{}<span class=\"note\" id=\"n1252\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "mn138:1.0.11": "<p id=\"p11\">{}</p>",
+  "mn138:1.0.12": "<p id=\"p12\">{}</p>",
+  "mn138:1.0.13": "<p id=\"p13\">{}</p>",
+  "mn138:1.0.14": "<p id=\"p14\">{}</p>",
+  "mn138:1.0.15": "<p id=\"p15\">{}</p>",
+  "mn138:1.0.16": "<p id=\"p16\">{}</p>",
+  "mn138:1.0.17": "<p id=\"p17\">{}</p>",
+  "mn138:1.0.18": "<p id=\"p18\">{}<span class=\"note\" id=\"n1253\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn138.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<a href=\"mn0-abbr.html\">{}</a>{}</span>\n<br class=\"half\"/>\n<span class=\"p\">{}<a href=\"../sn/sn22.7.html\">{}</a>{}<a href=\"mn138,html\">{}</a>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n1254\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n1255\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}</p>",
+  "mn138:1.0.19": "<p id=\"p19\">{}<span class=\"note\" id=\"n1256\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}</p>",
+  "mn138:1.0.20": "<p id=\"p20\">{}</p>",
+  "mn138:1.0.21": "<p>{}</p>",
+  "mn138:1.0.25": "<p id=\"p25\">{}</p>",
+  "mn138:1.0.26": "<p id=\"p26\">{}</p>"
+}

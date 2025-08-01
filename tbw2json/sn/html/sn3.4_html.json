@@ -1,0 +1,5 @@
+{
+  "sn3.4:1.0.1": "<p id=\"p1\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn3.4:1.0.2": "<p id=\"p2\">{}</p>",
+  "sn3.4:1.0.3": "<p><p><span class=\"add\">{}</span></p>\n<hr/>\n<div class=\"verse\">\n<p id=\"p3\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p4\"><span class=\"parno\" id=\"v386\">{}</span><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n208\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn4.1.html#p6\">{}</a>{}</span></span></span></p>\n<p id=\"p5\"><span class=\"parno\" id=\"v387\">{}</span><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p6\"><span class=\"parno\" id=\"v388\">{}</span><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/><span class=\"add\">{}</span>{}</p>\n</div>\n</p>"
+}

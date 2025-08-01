@@ -1,0 +1,17 @@
+{
+  "mn18:1.0.1": "<p id=\"p1\">{}</p>",
+  "mn18:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n228\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}</p>",
+  "mn18:1.0.3": "<p>{}</p>",
+  "mn18:1.0.5": "<p id=\"p5\">{}</p>",
+  "mn18:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n230\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn133.html\">{}</a>{}<a href=\"mn138.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn18:1.0.7": "<p id=\"p7\">{}</p>",
+  "mn18:1.0.8": "<p id=\"p8\"><span class=\"add\">{}</span>{}<span class=\"note\" id=\"n231\"><span class=\"details\"><span class=\"p\">{}<i>{}</i> <a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn18:1.0.9": "<p id=\"p9\">{}<span class=\"add\">{}</span>{}</p>",
+  "mn18:1.0.10": "<p id=\"p10\">{}<span class=\"add\">{}</span>{}<span class=\"note\" id=\"n232\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"mn43.html#p14\">{}</a>{}<a href=\"mn133.html\">{}</a>{}</span></span></span></p>",
+  "mn18:1.0.11": "<p id=\"p11\">{}<span class=\"note\" id=\"n233\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<span class=\"add\">{}</span>{}</p>",
+  "mn18:1.0.12": "<p id=\"p12\">{}<span class=\"add\">{}</span>{}</p>",
+  "mn18:1.0.13": "<p id=\"p13\">{}<span class=\"add\">{}</span>{}</p>",
+  "mn18:1.0.14": "<p id=\"p14\">{}</p>",
+  "mn18:1.0.15": "<p id=\"p15\">{}<span class=\"note\" id=\"n234\"><span class=\"details\"><span class=\"p\">{}<a href=\"../an/an5.194.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn18:1.0.16": "<p id=\"p16\">{}</p>"
+}

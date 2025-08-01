@@ -1,0 +1,15 @@
+{
+  "sn4.23:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n308\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn4.23:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n309\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn22.87.html\">{}</a>{}<a href=\"sn35.87.html\">{}</a>{}<a href=\"sn54.9.html\">{}</a>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<a href=\"sn35.87.html\">{}</a>{}</span></span></span></p>",
+  "sn4.23:1.0.3": "<p class=\"verse\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn4.23:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<span class=\"add\">{}</span>{}<br/>{}</p>",
+  "sn4.23:1.0.5": "<p class=\"verse\" id=\"p5\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n311\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span></p>",
+  "sn4.23:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n312\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "sn4.23:1.0.7": "<p class=\"verse\" id=\"p7\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn4.23:1.0.8": "<p class=\"verse\" id=\"p8\">{}<br class=\"half\"/>{}</p>",
+  "sn4.23:1.0.9": "<p id=\"p9\">{}<span class=\"note\" id=\"n313\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span> <a class=\"pts_pn\">{}</a>\n<br class=\"half\"/>{}</p>",
+  "sn4.23:1.0.10": "<p id=\"p10\">{}</p>",
+  "sn4.23:1.0.11": "<p class=\"verse\" id=\"p11\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn4.23:1.0.12": "<p class=\"verse\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn4.23:1.0.14": "<p class=\"verse\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n315\"><span class=\"details\"><span class=\"p\">{}<a href=\"../snp/snp3.2.html#p449\">{}</a>{}<a href=\"sn4.24.html#v504\">{}</a>{}</span></span></span></p>"
+}

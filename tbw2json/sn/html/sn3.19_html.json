@@ -1,0 +1,8 @@
+{
+  "sn3.19:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn3.19:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n245\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n246\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "sn3.19:1.0.3": "<p id=\"p3\">{}</p>",
+  "sn3.19:1.0.4": "<p id=\"p4\">{}</p>",
+  "sn3.19:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn3.19:1.0.6": "<p id=\"p6\">{}</p>"
+}

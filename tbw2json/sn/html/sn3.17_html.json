@@ -1,0 +1,6 @@
+{
+  "sn3.17:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn3.17:1.0.2": "<p id=\"p2\">{}</p>",
+  "sn3.17:1.0.3": "<p id=\"p3\">{}</p>",
+  "sn3.17:1.0.4": "<p id=\"p4\">{}<a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n241\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>"
+}

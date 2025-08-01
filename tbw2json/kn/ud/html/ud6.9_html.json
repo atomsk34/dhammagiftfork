@@ -1,0 +1,6 @@
+{
+  "ud6.9:1.0.1": "<p id=\"p1\"><span class=\"evam\">{}</span>{}</p>",
+  "ud6.9:1.0.2": "<p id=\"p2\">{}<span class=\"add\">{}</span>{}</p>",
+  "ud6.9:1.0.3": "<p id=\"p3\">{}</p>",
+  "ud6.9:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}<span class=\"add\">{}</span>{}</p>"
+}

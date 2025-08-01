@@ -1,0 +1,19 @@
+{
+  "mn131:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n1209\"><span class=\"details\"><span class=\"p\">{}<a href=\"http://www.bps.lk/library-search-select.php?id=wh188\"><i>{}</i></a>{}</span></span></span>{}</p>",
+  "mn131:1.0.2": "<p class=\"verse\" id=\"p2\">{}<br/>{}<span class=\"note\" id=\"n1211\"><span class=\"details\"><span class=\"p\">{}</span></span></span>\n<br/>{}<br/>{}</p>",
+  "mn131:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<span class=\"note\" id=\"n1212\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>\n<br/>{}<br/>{}<span class=\"note\" id=\"n1213\"><span class=\"details\"><span class=\"p\">{}<i>{}</i> <a href=\"mn0-abbr.html\">{}</a>{}<a href=\"mn121.html#n1143\">{}</a>{}<a href=\"../snp/snp5.18.html#1149\">{}</a>{}<a href=\"../tha/tha14.html#649\">{}</a>{}<i>{}</i>{}</span></span></span>\n<br/>{}</p>",
+  "mn131:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}</p>",
+  "mn131:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<span class=\"note\" id=\"n1214\"><span class=\"details\"><span class=\"p\">{}<i>{}<i>{}</i>{}</i>{}</span></span></span>\n<br/>{}</p>",
+  "mn131:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n1215\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn131:1.0.7": "<p id=\"p7\">{}<span class=\"note\" id=\"n1216\"><span class=\"details\"><span class=\"p\">{}<a href=\"https://www.bps.lk/library-search-select.php?id=wh188\"><i>{}</i></a>{}</span></span></span>{}</p>",
+  "mn131:1.0.8": "<p id=\"p8\">{}<span class=\"note\" id=\"n1217\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}</p>",
+  "mn131:1.0.9": "<p id=\"p9\">{}</p>",
+  "mn131:1.0.10": "<p id=\"p10\">{}<span class=\"note\" id=\"n1218\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn131:1.0.11": "<p id=\"p11\">{}</p>",
+  "mn131:1.0.12": "<p class=\"verse\" id=\"p12\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "mn131:1.0.13": "<p class=\"verse\" id=\"p13\">{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "mn131:1.0.14": "<p class=\"verse\" id=\"p14\">{}<br/>{}<br/>{}</p>",
+  "mn131:1.0.15": "<p class=\"verse\" id=\"p15\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "mn131:1.0.16": "<p id=\"p16\">{}</p>",
+  "mn131:1.0.17": "<p id=\"p17\">{}</p>"
+}

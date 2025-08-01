@@ -1,0 +1,4 @@
+{
+  "an00:1.0.1": "<p id=\"p1\">{}<br/>{}</p>",
+  "an00:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n17\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}</p>"
+}

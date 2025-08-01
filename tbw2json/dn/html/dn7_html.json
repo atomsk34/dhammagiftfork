@@ -1,0 +1,7 @@
+{
+  "dn7:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n188\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}<span class=\"note\" id=\"n189\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}</p>",
+  "dn7:1.0.2": "<p id=\"p2\">{}</p>",
+  "dn7:1.0.3": "<p id=\"p3\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"note\" id=\"n190\"><span class=\"details\"><span class=\"p\">{}<a href=\"dn1.html#p153\">{}</a>{}</span></span></span>{}</p>",
+  "dn7:1.0.4": "<p id=\"p4\">{}</p>",
+  "dn7:1.0.5": "<p id=\"p5\">{}</p>"
+}

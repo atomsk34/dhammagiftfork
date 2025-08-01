@@ -1,0 +1,8 @@
+{
+  "an3.86:1.0.1": "<p id=\"p1\">{}</p>",
+  "an3.86:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n522\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"../dn/dn16.html#585\">{}</a>{}<a href=\"../vi/kd21.html#27\">{}</a>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n523\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n524\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}<b>{}</b></i> <i>{}</i> <i><b>{}</b></i> <i>{}</i>{}</span></span></span>{}<a class=\"pts_pn\" id=\"an.i.232\"></a>{}<span class=\"add\">{}</span>{}</p>",
+  "an3.86:1.0.3": "<p id=\"p3\">{}</p>",
+  "an3.86:1.0.4": "<p id=\"p4\">{}</p>",
+  "an3.86:1.0.5": "<p id=\"p5\">{}</p>",
+  "an3.86:1.0.6": "<p id=\"p6\">{}</p>"
+}

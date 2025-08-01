@@ -1,0 +1,16 @@
+{
+  "an5.103:1.0.1": "<p id=\"p1\">{}</p>",
+  "an5.103:1.0.2": "<p id=\"p2\">{}</p>",
+  "an5.103:1.0.3": "<p id=\"p3\">{}</p>",
+  "an5.103:1.0.4": "<p id=\"p4\">{}<a class=\"pts_pn\" id=\"an.iii.129\"></a>{}</p>",
+  "an5.103:1.0.5": "<p id=\"p5\">{}</p>",
+  "an5.103:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n1113\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}<span class=\"add\">{}</span>{}<span class=\"note\" id=\"n1114\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "an5.103:1.0.7": "<p id=\"p7\">{}</p>",
+  "an5.103:1.0.8": "<p id=\"p8\">{}</p>",
+  "an5.103:1.0.9": "<p id=\"p9\">{}</p>",
+  "an5.103:1.0.10": "<p id=\"p10\">{}<a class=\"pts_pn\" id=\"an.iii.130\"></a>{}<span class=\"note\" id=\"n1115\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}</span></span></span>{}</p>",
+  "an5.103:1.0.11": "<p id=\"p11\">{}</p>",
+  "an5.103:1.0.12": "<p id=\"p12\">{}</p>",
+  "an5.103:1.0.13": "<p id=\"p13\">{}</p>",
+  "an5.103:1.0.14": "<p id=\"p14\">{}</p>"
+}

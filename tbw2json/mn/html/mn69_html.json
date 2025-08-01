@@ -1,0 +1,21 @@
+{
+  "mn69:1.0.1": "<p id=\"p1\">{}</p>",
+  "mn69:1.0.2": "<p id=\"p2\">{}</p>",
+  "mn69:1.0.3": "<p>{}</p>",
+  "mn69:1.0.5": "<p id=\"p5\">{}</p>",
+  "mn69:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n692\"><span class=\"details\"><span class=\"p\">{}<a href=\"../vi/bu-vb-pc46.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn69:1.0.7": "<p id=\"p7\">{}</p>",
+  "mn69:1.0.8": "<p id=\"p8\">{}</p>",
+  "mn69:1.0.9": "<p id=\"p9\">{}</p>",
+  "mn69:1.0.10": "<p id=\"p10\">{}</p>",
+  "mn69:1.0.11": "<p id=\"p11\">{}</p>",
+  "mn69:1.0.12": "<p id=\"p12\">{}</p>",
+  "mn69:1.0.13": "<p id=\"p13\">{}</p>",
+  "mn69:1.0.14": "<p id=\"p14\">{}</p>",
+  "mn69:1.0.15": "<p id=\"p15\">{}</p>",
+  "mn69:1.0.16": "<p id=\"p16\">{}</p>",
+  "mn69:1.0.17": "<p id=\"p17\">{}<span class=\"note\" id=\"n693\"><span class=\"details\"><span class=\"p\">{}<i>{}</i> <a href=\"mn0-abbr.html\">{}</a>{}<a href=\"mn44.html#n362\">{}</a>{}</span></span></span>{}</p>",
+  "mn69:1.0.18": "<p id=\"p18\">{}<span class=\"note\" id=\"n694\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}<i>{}</i></span></span></span>{}</p>",
+  "mn69:1.0.19": "<p id=\"p19\">{}<span class=\"note\" id=\"n695\"><span class=\"details\"><span class=\"p\">{}<a href=\"mn0-abbr.html\">{}</a>{}</span></span></span>{}</p>",
+  "mn69:1.0.20": "<p id=\"p20\">{}</p>"
+}

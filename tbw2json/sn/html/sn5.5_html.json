@@ -1,0 +1,9 @@
+{
+  "sn5.5:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n345\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"../thi/thi6.html#p224\">{}</a>{}<a href=\"../thi/thi11.html#p230\">{}</a>{}<a href=\"../thi/thi11.html#p234\">{}</a>{}<a href=\"sn5.1.html#v521\">{}</a>{}</span></span></span></p>",
+  "sn5.5:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n346\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<a href=\"../thi/thi11.html#p230\">{}</a>{}</span></span></span></p>",
+  "sn5.5:1.0.3": "<p id=\"p3\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn5.5:1.0.4": "<p class=\"verse\" id=\"p4\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n347\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<a href=\"../thi/thi11.html#p231\">{}</a>{}</span></span></span></p>",
+  "sn5.5:1.0.5": "<p class=\"verse\" id=\"p5\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn5.5:1.0.6": "<p class=\"verse\" id=\"p6\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n348\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn51.11.html\">{}</a>{}</span></span></span></p>",
+  "sn5.5:1.0.7": "<p id=\"p7\">{}</p>"
+}

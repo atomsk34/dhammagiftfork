@@ -1,0 +1,11 @@
+{
+  "sn46.3:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn46.3:1.0.2": "<p id=\"p2\">{}<a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n63\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn48.9.html\">{}</a>{}<br class=\"half\"/>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<a href=\"sn54.13.html\">{}</a>{}</span></span></span></p>",
+  "sn46.3:1.0.3": "<p id=\"p3\">{}</p>",
+  "sn46.3:1.0.4": "<p id=\"p4\">{}</p>",
+  "sn46.3:1.0.5": "<p id=\"p5\">{}</p>",
+  "sn46.3:1.0.6": "<p id=\"p6\">{}<a class=\"pts_pn\">{}</a></p>",
+  "sn46.3:1.0.7": "<p id=\"p7\">{}<span class=\"note\" id=\"n64\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<a href=\"../sn/sn47.10.html\">{}</a>{}<a href=\"../an/an10.2.html\">{}</a>{}<i>{}</i>{}<a href=\"sn54.13.html\">{}</a>{}</span></span></span>{}</p>",
+  "sn46.3:1.0.8": "<p id=\"p8\">{}</p>",
+  "sn46.3:1.0.9": "<p id=\"p9\">{}</p>"
+}

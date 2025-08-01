@@ -1,0 +1,7 @@
+{
+  "sn55.41:1.0.4": "<p id=\"p4\">{}</p>",
+  "sn55.41:1.0.5": "<p id=\"p5\">{}</p>",
+  "sn55.41:1.0.6": "<p id=\"p6\">{}</p>",
+  "sn55.41:1.0.7": "<p class=\"verse\" id=\"p7\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn55.41:1.0.8": "<p class=\"verse\" id=\"p8\">{}<br/>{}<br/>{}<span class=\"note\" id=\"n360\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i></span></span></span>{}<br/>{}<a class=\"pts_pn\">{}</a></p>"
+}

@@ -1,0 +1,5 @@
+{
+  "sn11.21:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn11.21:1.0.2": "<p class=\"verse\" id=\"p2\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn11.21:1.0.3": "<p class=\"verse\" id=\"p3\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>"
+}

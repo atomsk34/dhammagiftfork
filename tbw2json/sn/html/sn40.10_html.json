@@ -1,0 +1,18 @@
+{
+  "sn40.10:1.0.1": "<p id=\"p1\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn40.10:1.0.2": "<p id=\"p2\">{}</p>",
+  "sn40.10:1.0.4": "<p>{}<span class=\"note\" id=\"n282\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "sn40.10:1.0.7": "<p id=\"p7\">{}</p>",
+  "sn40.10:1.0.8": "<p id=\"p8\">{}<span class=\"note\" id=\"n283\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn12.41.html#n120\">{}</a>{}<i>{}</i>{}<a href=\"sn12.41.html\">{}</a>{}<a href=\"../dn/dn21.html\">{}</a>{}</span></span></span>{}</p>",
+  "sn40.10:1.0.9": "<p id=\"p9\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn40.10:1.0.10": "<p id=\"p10\">{}</p>",
+  "sn40.10:1.0.11": "<p id=\"p11\">{}</p>",
+  "sn40.10:1.0.12": "<p>{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn40.10:1.0.16": "<p>{}<br class=\"half\"/><span class=\"add\">{}</span> <a class=\"pts_pn\">{}</a></p>",
+  "sn40.10:1.0.25": "<p id=\"p25\">{}</p>",
+  "sn40.10:1.0.26": "<p id=\"p26\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn40.10:1.0.32": "<p>{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn40.10:1.0.37": "<p>{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn40.10:1.0.42": "<p>{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn40.10:1.0.46": "<p>{}</p>"
+}

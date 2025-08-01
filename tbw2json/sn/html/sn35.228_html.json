@@ -1,0 +1,5 @@
+{
+  "sn35.228:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn35.228:1.0.2": "<p id=\"p2\"><span class=\"note\" id=\"n161\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n162\"><span class=\"details\"><span class=\"p\">{}<b><a href=\"../it/it.html#109\"></a></b>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"../mn/mn67.html#p5\">{}</a>{}<i>{}</i>{}<a href=\"../it/it.html#p57\">{}</a>{}<a href=\"sn2.5.html\">{}</a>{}<a href=\"../an/an4.5.html#p1\">{}</a>{}</span></span></span>{}</p>",
+  "sn35.228:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<br/>{}<br/>{}</p>"
+}

@@ -1,0 +1,5 @@
+{
+  "sn45.1:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn45.1:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n1\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"../it/it.html#p34\">{}</a>{}<a href=\"../mn/mn117.html\">{}</a>{}<br class=\"half\"/><a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "sn45.1:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n2\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"../an/an2.7.html\">{}</a>{}</span></span></span> <a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n3\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}</span></span></span></p>"
+}

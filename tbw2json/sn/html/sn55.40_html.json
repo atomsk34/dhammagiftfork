@@ -1,0 +1,8 @@
+{
+  "sn55.40:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn55.40:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n358\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn48.18.html\">{}</a>{}</span></span></span>{}<a class=\"pts_pn\">{}</a></p>",
+  "sn55.40:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n359\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn35.97.html\">{}</a>{}</span></span></span>{}</p>",
+  "sn55.40:1.0.4": "<p id=\"p4\">{}</p>",
+  "sn55.40:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\">{}</a></p>",
+  "sn55.40:1.0.6": "<p id=\"p6\">{}<br/><br/>{}</p>"
+}

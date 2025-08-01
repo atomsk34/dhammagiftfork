@@ -1,0 +1,5 @@
+{
+  "an3.45:1.0.1": "<p id=\"p1\">{}</p>",
+  "an3.45:1.0.2": "<p class=\"verse\" id=\"p2\">{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n404\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a>{}</a>{}<small>{}</small>{}<small>{}</small>{}<i>{}</i>{}<small>{}</small>{}<img alt=\"\" class=\"calibre59\" src=\"images/000070.jpg\"/>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "an3.45:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<br/>{}<br/>{}</p>"
+}

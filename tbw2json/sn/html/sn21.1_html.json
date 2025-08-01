@@ -1,0 +1,5 @@
+{
+  "sn21.1:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn21.1:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n378\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn40.2.html\">{}</a>{}</span></span></span>{}</p>",
+  "sn21.1:1.0.3": "<p id=\"p3\">{}</p>"
+}

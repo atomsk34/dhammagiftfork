@@ -1,0 +1,23 @@
+{
+  "sn3.21:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn3.21:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n249\"><span class=\"details\"><span class=\"p\">{}<a href=\"../an/an4.85.html\">{}</a>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<a class=\"pts_pn\">{}</a>{}<span class=\"note\" id=\"n250\"><span class=\"details\"><span class=\"p\">{}</span></span></span>{}</p>",
+  "sn3.21:1.0.3": "<p id=\"p3\">{}</p>",
+  "sn3.21:1.0.4": "<p id=\"p4\">{}</p>",
+  "sn3.21:1.0.5": "<p id=\"p5\">{}</p>",
+  "sn3.21:1.0.6": "<p id=\"p6\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn3.21:1.0.7": "<p id=\"p7\">{}</p>",
+  "sn3.21:1.0.8": "<p id=\"p8\">{}</p>",
+  "sn3.21:1.0.9": "<p id=\"p9\">{}<a class=\"pts_pn\">{}</a></p>",
+  "sn3.21:1.0.10": "<p class=\"verse\" id=\"p10\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.11": "<p class=\"verse\" id=\"p11\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.12": "<p class=\"verse\" id=\"p12\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.13": "<p class=\"verse\" id=\"p13\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.14": "<p class=\"verse\" id=\"p14\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.15": "<p class=\"verse\" id=\"p15\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.16": "<p class=\"verse\" id=\"p16\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.17": "<p class=\"verse\" id=\"p17\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.18": "<p class=\"verse\" id=\"p18\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.19": "<p class=\"verse\" id=\"p19\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.20": "<p class=\"verse\" id=\"p20\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn3.21:1.0.21": "<p class=\"verse\" id=\"p21\"><span class=\"add\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
+}

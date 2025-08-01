@@ -1,0 +1,5 @@
+{
+  "an3.116:1.0.1": "<p id=\"p1\">{}</p>",
+  "an3.116:1.0.2": "<p id=\"p2\">{}<span class=\"add\">{}</span>{}<a class=\"pts_pn\" id=\"an.i.268\"></a>{}</p>",
+  "an3.116:1.0.3": "<p id=\"p3\">{}<span class=\"add\">{}</span>{}</p>"
+}

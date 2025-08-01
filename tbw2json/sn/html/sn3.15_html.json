@@ -1,0 +1,6 @@
+{
+  "sn3.15:1.0.1": "<p id=\"p1\"><a class=\"pts_pn\">{}</a> <span class=\"add\">{}</span>\n<br class=\"half\"/>{}</p>",
+  "sn3.15:1.0.2": "<p id=\"p2\">{}</p>",
+  "sn3.15:1.0.3": "<p>{}<a class=\"pts_pn\">{}</a></p>",
+  "sn3.15:1.0.6": "<p id=\"p6\">{}</p>"
+}

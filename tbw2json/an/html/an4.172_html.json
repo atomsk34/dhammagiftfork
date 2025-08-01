@@ -1,0 +1,7 @@
+{
+  "an4.172:1.0.1": "<p id=\"p1\">{}</p>",
+  "an4.172:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n875\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<span class=\"add\">{}</span>{}<i>{}</i>{}<span class=\"add\">{}</span>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n876\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a> <i>{}</i>{}<i>{}</i>{}<a href=\"../an/an3.136.html\">{}</a>{}<small>{}</small>{}</span></span></span> <span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"note\" id=\"n877\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i> <span class=\"add\">{}</span>{}</span></span></span>{}<span class=\"note\" id=\"n878\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}</span></span></span></p>",
+  "an4.172:1.0.3": "<p id=\"p3\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}</p>",
+  "an4.172:1.0.4": "<p id=\"p4\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}</p>",
+  "an4.172:1.0.5": "<p id=\"p5\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<a class=\"pts_pn\" id=\"an.ii.161\"></a></p>"
+}

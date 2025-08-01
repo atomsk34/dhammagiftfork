@@ -1,0 +1,7 @@
+{
+  "an4.122:1.0.1": "<p id=\"p1\">{}</p>",
+  "an4.122:1.0.2": "<p id=\"p2\">{}<a class=\"pts_pn\" id=\"an.ii.124\"></a>{}<span class=\"add\">{}</span>{}</p>",
+  "an4.122:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n807\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<a class=\"pts_pn\" id=\"an.ii.125\"></a>{}<span class=\"add\">{}</span>{}</p>",
+  "an4.122:1.0.4": "<p id=\"p4\">{}</p>",
+  "an4.122:1.0.5": "<p id=\"p5\">{}<a class=\"pts_pn\" id=\"an.ii.126\"></a>{}</p>"
+}

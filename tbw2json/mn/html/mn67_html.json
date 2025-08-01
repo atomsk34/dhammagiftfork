@@ -1,0 +1,12 @@
+{
+  "mn67:1.0.1": "<p id=\"p1\">{}</p>",
+  "mn67:1.0.2": "<p id=\"p2\">{}</p>",
+  "mn67:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n683\"><span class=\"details\"><span class=\"p\">{}<a href=\"../mn/mn26.html#p37\">{}</a>{}</span></span></span>{}</p>",
+  "mn67:1.0.4": "<p id=\"p4\">{}</p>",
+  "mn67:1.0.5": "<p id=\"p5\">{}</p>",
+  "mn67:1.0.6": "<p id=\"p6\">{}<span class=\"add\">{}</span>{}</p>",
+  "mn67:1.0.7": "<p id=\"p7\">{}<span class=\"note\" id=\"n686\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n687\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
+  "mn67:1.0.8": "<p id=\"p8\">{}</p>",
+  "mn67:1.0.9": "<p id=\"p9\">{}</p>",
+  "mn67:1.0.10": "<p id=\"p10\">{}</p>"
+}

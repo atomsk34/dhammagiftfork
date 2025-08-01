@@ -1,0 +1,9 @@
+{
+  "sn22.62:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n95\"><span class=\"details\"><span class=\"p\">{}<i>{}</i> <a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<br class=\"half\"/>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"../dn/dn15.html\">{}</a>{}<i>{}</i>{}</span>\n<br class=\"half\"/><span class=\"p\">{}</span></span></span>{}</p>",
+  "sn22.62:1.0.2": "<p>{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn22.62:1.0.5": "<p id=\"p5\">{}</p>",
+  "sn22.62:1.0.6": "<p>{}</p>",
+  "sn22.62:1.0.9": "<p id=\"p9\">{}</p>",
+  "sn22.62:1.0.10": "<p>{}</p>",
+  "sn22.62:1.0.13": "<p id=\"p13\">{}<a class=\"pts_pn\">{}</a>{}</p>"
+}

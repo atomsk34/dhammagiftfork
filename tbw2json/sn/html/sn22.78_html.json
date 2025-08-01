@@ -1,0 +1,8 @@
+{
+  "sn22.78:1.0.1": "<p id=\"p1\">{}<a class=\"pts_pn\">{}</a></p>",
+  "sn22.78:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n105\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n106\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn12.21.html\">{}</a>{}<a href=\"sn12.21.html#n58\">{}</a>{}<a href=\"sn22.56.html\">{}</a>{}</span></span></span></p>",
+  "sn22.78:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<br/>{}<br/>{}<span class=\"add\">{}</span>{}</p>",
+  "sn22.78:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn22.78:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn22.78:1.0.6": "<p class=\"verse\" id=\"p6\">{}<br/>{}<br/><span class=\"add\">{}</span>{}<br/>{}</p>"
+}

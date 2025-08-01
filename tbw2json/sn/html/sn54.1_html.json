@@ -1,0 +1,8 @@
+{
+  "sn54.1:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn54.1:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n290\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"../sn/sn41.6.html#p1\">{}</a>{}<i>{}</i>{}</span></span></span> <a class=\"pts_pn\">{}</a></p>",
+  "sn54.1:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n291\"><span class=\"details\"><span class=\"p\">{}<br class=\"half\"/>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "sn54.1:1.0.4": "<p id=\"p4\">{}<span class=\"note\" id=\"n292\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
+  "sn54.1:1.0.5": "<p id=\"p5\">{}<span class=\"note\" id=\"n293\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn45.2.html#n7\">{}</a>{}</span></span></span></p>",
+  "sn54.1:1.0.6": "<p id=\"p6\">{}</p>"
+}

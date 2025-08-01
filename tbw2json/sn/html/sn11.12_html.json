@@ -1,0 +1,10 @@
+{
+  "sn11.12:1.0.1": "<p id=\"p1\">{}</p>",
+  "sn11.12:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n637\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a> <i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
+  "sn11.12:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n638\"><span class=\"details\"><span class=\"p\">{}<i>{}</i></span></span></span></p>",
+  "sn11.12:1.0.4": "<p id=\"p4\">{}<span class=\"note\" id=\"n639\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span></p>",
+  "sn11.12:1.0.5": "<p id=\"p5\">{}<span class=\"note\" id=\"n640\"><span class=\"details\"><span class=\"p\">{}<i>{}</i> <a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}</span></span></span></p>",
+  "sn11.12:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n641\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
+  "sn11.12:1.0.7": "<p id=\"p7\">{}</p>",
+  "sn11.12:1.0.8": "<p id=\"p8\">{}</p>"
+}

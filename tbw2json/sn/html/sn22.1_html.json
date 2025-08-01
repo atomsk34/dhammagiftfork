@@ -1,0 +1,20 @@
+{
+  "sn22.1:1.0.1": "<p id=\"p1\">{}<span class=\"note\" id=\"n1\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"../an/an1.248-257.html\">{}</a>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}</span></span></span></p>",
+  "sn22.1:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n2\"><span class=\"details\"><span class=\"p\">{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<br class=\"half\"/><i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "sn22.1:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n3\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"sn35.29.html\">{}</a>{}<a href=\"sn35.html#fn.IV.14\">{}</a>{}</span></span></span>{}</p>",
+  "sn22.1:1.0.4": "<p id=\"p4\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn22.1:1.0.5": "<p>{}</p>",
+  "sn22.1:1.0.7": "<p id=\"p7\">{}<a class=\"pts_pn\">{}</a></p>",
+  "sn22.1:1.0.8": "<p id=\"p8\">{}</p>",
+  "sn22.1:1.0.9": "<p id=\"p9\">{}<span class=\"note\" id=\"n4\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn12.61.html#n153\">{}</a>{}<a href=\"sn0-abbr.html\" title=\"Abbreviations\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n5\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"sn22.105.html\">{}</a>{}<br class=\"half\"/>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<br class=\"half\"/>{}<i>{}</i>{}<i>{}</i>{}<a href=\"../dn/dn15.html\">{}</a>{}<i>{}</i>{}</span></span></span>{}</p>",
+  "sn22.1:1.0.10": "<p id=\"p10\">{}</p>",
+  "sn22.1:1.0.11": "<p id=\"p11\">{}</p>",
+  "sn22.1:1.0.12": "<p id=\"p12\">{}<a class=\"pts_pn\">{}</a>{}</p>",
+  "sn22.1:1.0.13": "<p id=\"p13\">{}</p>",
+  "sn22.1:1.0.14": "<p id=\"p14\">{}<span class=\"note\" id=\"n7\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}</span></span></span>{}</p>",
+  "sn22.1:1.0.15": "<p id=\"p15\">{}</p>",
+  "sn22.1:1.0.16": "<p id=\"p16\">{}<a class=\"pts_pn\">{}</a></p>",
+  "sn22.1:1.0.17": "<p id=\"p17\">{}</p>",
+  "sn22.1:1.0.18": "<p id=\"p18\">{}</p>",
+  "sn22.1:1.0.19": "<p id=\"p19\">{}</p>"
+}
