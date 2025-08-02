@@ -1,0 +1,12 @@
+{
+  "an3.57:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
+  "an3.57:1.2": "<p><a id=\"note416\"></a>{}{}{}</p>",
+  "an3.57:2.1": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
+  "an3.57:2.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
+  "an3.57:2.3": "<p id=\"p4\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an3.57:2.4": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
+  "an3.57:2.5": "<p>{}</p>",
+  "an3.57:2.6": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "an3.57:2.7": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "an3.57:2.8": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}\n<br/>{}<br/>{}<br/>{}\n<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>"
+}

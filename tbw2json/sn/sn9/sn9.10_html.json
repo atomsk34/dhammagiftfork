@@ -1,0 +1,5 @@
+{
+  "sn9.10:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn9.10:1.2": "<p class=\"verse\" id=\"p2\"><span class=\"parno\" id=\"v785\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "sn9.10:2.1": "<p class=\"verse\" id=\"p3\"><span class=\"parno\" id=\"v786\">{}</span>{}<br/>{}\n<br/>{}<br/>{}<br/>{}<br/>{}</p>"
+}

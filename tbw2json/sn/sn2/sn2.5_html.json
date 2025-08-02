@@ -1,0 +1,6 @@
+{
+  "sn2.5:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.5:2.1": "<p class=\"verse\" id=\"p2\"><span class=\"parno\" id=\"v262\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "sn2.5:2.2": "<p class=\"verse\" id=\"p3\"><span class=\"parno\" id=\"v263\">{}</span>{}<br/>{}<br/>{}<br/>{}\n<br/>{}<br/>{}<br/>{}</p>",
+  "sn2.5:3.1": "<p class=\"verse\" id=\"p4\"><span class=\"parno\" id=\"v264\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
+}

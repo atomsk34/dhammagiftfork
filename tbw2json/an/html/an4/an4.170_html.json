@@ -1,9 +1,0 @@
-{
-  "an4.170:1.0.1": "<p id=\"p1\">{}</p>",
-  "an4.170:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n857\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<small>{}</small>{}<small>{}</small>{}<i>{}</i>{}<i><b>{}</b></i> <i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
-  "an4.170:1.0.3": "<p id=\"p3\">{}<span class=\"note\" id=\"n858\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}<span class=\"note\" id=\"n859\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}</span></span></span></p>",
-  "an4.170:1.0.4": "<p id=\"p4\">{}<span class=\"note\" id=\"n860\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}</span></span></span>{}</p>",
-  "an4.170:1.0.5": "<p id=\"p5\">{}<span class=\"note\" id=\"n861\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<a href=\"../an/an9.36.html\">{}</a>{}<a href=\"../mn/mn52.html#p4\">{}</a>{}<a href=\"../mn/mn64.html#p17\">{}</a>{}</span></span></span>{}</p>",
-  "an4.170:1.0.6": "<p id=\"p6\">{}<span class=\"note\" id=\"n862\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}</span></span></span>{}</p>",
-  "an4.170:1.0.7": "<p id=\"p7\">{}</p>"
-}

@@ -1,0 +1,9 @@
+{
+  "mn8:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}{}<br class=\"half\"/>{}</p>",
+  "mn8:1.2": "<p>{}{}{}</p>",
+  "mn8:1.3": "<p id=\"p2\"><span class=\"parno\">{}</span>{}{}{}</p>",
+  "mn8:2.1": "<p id=\"p58\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "mn8:3.1": "<p id=\"p59\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "mn8:4.1": "<p id=\"p64\"><span class=\"parno\">{}</span>{}<br/>{}{}</p>",
+  "mn8:5.1": "<p id=\"p65\"><span class=\"parno\">{}</span>{}</p>"
+}

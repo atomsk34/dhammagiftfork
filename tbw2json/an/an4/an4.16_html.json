@@ -1,0 +1,6 @@
+{
+  "an4.16:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}{}{}</p>",
+  "an4.16:2.1": "<p>{}</p>",
+  "an4.16:3.1": "<p class=\"verse\" id=\"p2\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "an4.16:3.2": "<p class=\"verse\" id=\"p3\"><span class=\"parno\">{}</span>{}\n<br/>{}<br/>{}<br/>{}</p>"
+}

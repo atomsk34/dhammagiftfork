@@ -1,0 +1,8 @@
+{
+  "sn14.16:1.1": "<p><span class=\"parno\">{}</span>{}{}</p>",
+  "sn14.16:2.1": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
+  "sn14.16:2.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
+  "sn14.16:2.3": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
+  "sn14.16:3.1": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
+  "sn14.16:3.2": "<div class=\"verse\">\n<p id=\"p9\"><span class=\"parno\">{}</span>{}\n<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>\n</div>"
+}

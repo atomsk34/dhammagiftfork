@@ -1,0 +1,18 @@
+{
+  "an4.10:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
+  "an4.10:2.1": "<p>{}</p>",
+  "an4.10:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an4.10:2.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an4.10:2.4": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
+  "an4.10:3.1": "<p>{}</p>",
+  "an4.10:4.1": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
+  "an4.10:5.1": "<p>{}</p>",
+  "an4.10:5.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
+  "an4.10:5.3": "<p>{}{}</p>",
+  "an4.10:6.1": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
+  "an4.10:7.1": "<p>{}</p>",
+  "an4.10:8.1": "<p>{}</p>",
+  "an4.10:9.1": "<p class=\"verse\" id=\"p9\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "an4.10:9.2": "<p class=\"verse\" id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "an4.10:9.3": "<p class=\"verse\" id=\"p11\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{} </p>"
+}

@@ -1,0 +1,7 @@
+{
+  "an7.27:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
+  "an7.27:1.2": "<p>{}</p>",
+  "an7.27:2.1": "<p>{}</p>",
+  "an7.27:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
+  "an7.27:2.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>"
+}
