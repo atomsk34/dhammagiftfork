@@ -1,3 +1,17 @@
+cp /var/www/offline-data/theBuddhasWords/mn/* ./
+cp /var/www/offline-data/theBuddhasWords/dn/* ./
+cp /var/www/offline-data/theBuddhasWords/sn/* ./
+cp /var/www/offline-data/theBuddhasWords/an/* ./
+
+cp /var/www/offline-data/theBuddhasWords/ud/* ./
+cp /var/www/offline-data/theBuddhasWords/snp/* ./
+cp /var/www/offline-data/theBuddhasWords/dhp/* ./
+cp /var/www/offline-data/theBuddhasWords/it/* ./
+cp /var/www/offline-data/theBuddhasWords/tha/* ./
+cp /var/www/offline-data/theBuddhasWords/thi/* ./
+  
+
+
 mkdir mn dn
 mv mn* mn
 mv dn* dn
@@ -15,13 +29,13 @@ mv ud* ud/
 mv iti* iti/
 mv dhp* dhp/
 mv snp* snp/
-mv thag* thag/
+mv tha* thag/
 mv thi* thig/
 mv ud iti dhp snp thag thig kn/
 
 
 rm -rf ../../kn
-
+mv kn ../../
 rm -rf ../../sn
 rm -rf ../../an
 rm -rf ../../dn
@@ -30,4 +44,33 @@ mv sn ../../
 mv an ../../
 mv dn ../../
 mv mn ../../
-mv kn ../../
+
+
+
+
+exit 0
+
+
+
+# Bodhi
+mv dn1_translation-en-bodhi.json dn1_translation-en-bodhi.json
+mv dn2_translation-en-bodhi.json dn2_translation-en-bodhi.json
+mv dn15_translation-en-bodhi.json dn15_translation-en-bodhi.json
+
+# Ānandajoti
+mv dn16_translation-en-bodhi.json dn16_translation-en-anandajoti.json
+mv dn20_translation-en-bodhi.json dn20_translation-en-anandajoti.json
+mv dn32_translation-en-bodhi.json dn32_translation-en-anandajoti.json
+
+# Kelly
+mv dn31_translation-en-bodhi.json dn31_translation-en-kelly.json
+
+# Walshe (все остальные из списка)
+for f in dn{3..14} dn{17..19} dn{21..30} dn33 dn34; do
+  mv "${f}_translation-en-bodhi.json" "${f}_translation-en-walshe.json"
+done
+
+
+
+
+
