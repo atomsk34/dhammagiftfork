@@ -13,6 +13,11 @@ def process_text(tag_list):
     combined_html_str = "".join(str(t) for t in tag_list)
     clean_tag = BeautifulSoup(combined_html_str, 'html.parser')
 
+    # <<-- ИЗМЕНЕНИЕ: Удаляем теги с номерами параграфов -->>
+    for parno in clean_tag.find_all('span', class_='parno'):
+        parno.decompose()
+
+    # Удаляем остальные ненужные элементы
     for note in clean_tag.find_all('span', class_='note'):
         note.decompose()
     for item in clean_tag.find_all('span', class_='add'):
@@ -34,7 +39,6 @@ def get_html_structure(tag_list):
     combined_html_str = "".join(str(t) for t in tag_list)
     tag_copy = BeautifulSoup(combined_html_str, 'html.parser')
 
-    # Заменяем текст на плейсхолдеры. Используем string=True вместо text=True
     for text_node in tag_copy.find_all(string=True):
         if text_node.strip():
             text_node.replace_with('{}')
@@ -43,8 +47,6 @@ def get_html_structure(tag_list):
         for item in tag_copy.find_all(selector, class_=class_name):
             item.decompose()
 
-    # ИЗМЕНЕНИЕ: Просто возвращаем измененный HTML-фрагмент как строку.
-    # Это работает, даже если нет тега <body>.
     return str(tag_copy)
 
 
