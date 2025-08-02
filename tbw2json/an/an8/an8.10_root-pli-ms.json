@@ -1,4 +1,7 @@
 {
+  "an8.10:0.1": "Aṅguttara Nikāya 8.10 ",
+  "an8.10:0.2": "1. Mettāvagga ",
+  "an8.10:0.3": "Kāraṇḍavasutta ",
   "an8.10:1.1": "1\nEkaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre. Tena kho pana samayena bhikkhū bhikkhuṁ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno aññenāññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca dosañca appaccayañca pātukaroti.",
   "an8.10:1.2": "2\nAtha kho bhagavā bhikkhū āmantesi:  \"niddhamathetaṁ, bhikkhave, puggalaṁ; niddhamathetaṁ, bhikkhave, puggalaṁ. Apaneyyeso, bhikkhave, puggalo. Kiṁ vo tena paraputtena visodhitena.",
   "an8.10:1.3": "Idha, bhikkhave, ekaccassa puggalassa tādisaṁyeva hoti abhikkantaṁ paṭikkantaṁ ālokitaṁ vilokitaṁ samiñjitaṁ pasāritaṁ saṅghāṭipattacīvaradhāraṇaṁ, seyyathāpi aññesaṁ bhaddakānaṁ bhikkhūnaṁ – yāvassa bhikkhū āpattiṁ na passanti. Yato ca khvassa bhikkhū āpattiṁ passanti, tamenaṁ evaṁ jānanti:  ‘samaṇadūsīvāyaṁ samaṇapalāpo samaṇakāraṇḍavo’ti. Tamenaṁ iti viditvā bahiddhā nāsenti. Taṁ kissa hetu? Mā aññe bhaddake bhikkhū dūsesīti.",
@@ -8,9 +11,11 @@
   "an8.10:1.7": "Evamevaṁ kho, bhikkhave, idhekaccassa puggalassa tādisaṁyeva hoti abhikkantaṁ paṭikkantaṁ ālokitaṁ vilokitaṁ samiñjitaṁ pasāritaṁ saṅghāṭipattacīvaradhāraṇaṁ, seyyathāpi aññesaṁ bhaddakānaṁ bhikkhūnaṁ – yāvassa bhikkhū āpattiṁ na passanti. Yato ca khvassa bhikkhū āpattiṁ passanti, tamenaṁ evaṁ jānanti:  ‘samaṇadūsīvāyaṁ samaṇapalāpo samaṇakāraṇḍavo’ti. Tamenaṁ iti viditvā bahiddhā nāsenti. Taṁ kissa hetu? Mā aññe bhaddake bhikkhū dūsesīti.",
   "an8.10:1.8": "6\nSeyyathāpi, bhikkhave, puriso udapānapanāḷiyatthiko tiṇhaṁ kuṭhāriṁ ādāya vanaṁ paviseyya. So yaṁ yadeva rukkhaṁ kuṭhāripāsena ākoṭeyya tattha yāni tāni rukkhāni daḷhāni sāravantāni tāni kuṭhāripāsena ākoṭitāni kakkhaḷaṁ paṭinadanti; yāni pana tāni rukkhāni antopūtīni avassutāni kasambujātāni tāni kuṭhāripāsena ākoṭitāni daddaraṁ paṭinadanti. Tamenaṁ mūle chindati, mūle chinditvā agge chindati, agge chinditvā anto suvisodhitaṁ visodheti, anto suvisodhitaṁ visodhetvā udapānapanāḷiṁ yojeti.",
   "an8.10:1.9": "Evamevaṁ kho, bhikkhave, idhekaccassa puggalassa tādisaṁyeva hoti abhikkantaṁ paṭikkantaṁ ālokitaṁ vilokitaṁ samiñjitaṁ pasāritaṁ saṅghāṭipattacīvaradhāraṇaṁ, seyyathāpi aññesaṁ bhaddakānaṁ bhikkhūnaṁ – yāvassa bhikkhū āpattiṁ na passanti. Yato ca khvassa bhikkhū āpattiṁ passanti, tamenaṁ evaṁ jānanti:  ‘samaṇadūsīvāyaṁ samaṇapalāpo samaṇakāraṇḍavo’ti. Tamenaṁ iti viditvā bahiddhā nāsenti. Taṁ kissa hetu? Mā aññe bhaddake bhikkhū dūsesīti.",
-  "an8.10:2.1": "7\nSaṁvāsāyaṁ vijānātha,\npāpiccho kodhano iti;\nMakkhī thambhī paḷāsī ca,\nissukī maccharī saṭho.",
-  "an8.10:2.2": "8\nSantavāco janavati,\nsamaṇo viya bhāsati;\nRaho karoti karaṇaṁ,\npāpadiṭṭhi anādaro.",
-  "an8.10:2.3": "9\nSaṁsappī ca musāvādī,\ntaṁ viditvā yathātathaṁ;\nSabbe samaggā hutvāna,\nabhinibbajjayātha naṁ.",
-  "an8.10:2.4": "10\nKāraṇḍavaṁ niddhamatha,\nKasambuṁ apakassatha;\nTato palāpe vāhetha,\nAssamaṇe samaṇamānine.",
-  "an8.10:2.5": "11\nNiddhamitvāna pāpicche,\npāpaācāragocare;\nSuddhāsuddhehi saṁvāsaṁ,\nkappayavho patissatā;\nTato samaggā nipakā,\ndukkhassantaṁ karissathā\"ti."
+  "an8.10:2.1": "",
+  "an8.10:2.2": "7\nSaṁvāsāyaṁ vijānātha,\npāpiccho kodhano iti;\nMakkhī thambhī paḷāsī ca,\nissukī maccharī saṭho.",
+  "an8.10:2.3": "8\nSantavāco janavati,\nsamaṇo viya bhāsati;\nRaho karoti karaṇaṁ,\npāpadiṭṭhi anādaro.",
+  "an8.10:2.4": "9\nSaṁsappī ca musāvādī,\ntaṁ viditvā yathātathaṁ;\nSabbe samaggā hutvāna,\nabhinibbajjayātha naṁ.",
+  "an8.10:2.5": "10\nKāraṇḍavaṁ niddhamatha,\nKasambuṁ apakassatha;\nTato palāpe vāhetha,\nAssamaṇe samaṇamānine.",
+  "an8.10:2.6": "11\nNiddhamitvāna pāpicche,\npāpaācāragocare;\nSuddhāsuddhehi saṁvāsaṁ,\nkappayavho patissatā;\nTato samaggā nipakā,\ndukkhassantaṁ karissathā\"ti.",
+  "an8.10:3.1": "Dasamaṁ.\nMettāvaggo paṭhamo.\n12\nMettaṁ paññā ca dve piyā,\ndve lokā dve vipattiyo;\nDevadatto ca uttaro,\nnando kāraṇḍavena cāti."
 }

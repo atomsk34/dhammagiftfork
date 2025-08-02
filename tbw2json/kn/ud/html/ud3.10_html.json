@@ -1,7 +1,0 @@
-{
-  "ud3.10:1.0.1": "<p id=\"p1\"><span class=\"evam\">{}</span>{}<span class=\"add\">{}</span>{}</p>",
-  "ud3.10:1.0.2": "<p id=\"p2\">{}</p>",
-  "ud3.10:1.0.3": "<p id=\"p3\">{}</p>",
-  "ud3.10:1.0.6": "<p id=\"p6\">{}<span class=\"add\">{}</span>{}<br/>{}</p>",
-  "ud3.10:1.0.7": "<p id=\"p7\">{}<br/>\n<br/>{}<span class=\"add\">{}</span>{}</p>"
-}
