@@ -9,38 +9,17 @@ def process_text(tag_list):
     """
     if not tag_list:
         return ""
-<<<<<<< HEAD
 
     combined_html_str = "".join(str(t) for t in tag_list)
     clean_tag = BeautifulSoup(combined_html_str, 'html.parser')
 
-=======
-    
-<<<<<<< HEAD
-    # Удаляем примечания
-    clean_tag = BeautifulSoup(str(tag), 'html.parser')
-    for note in clean_tag.find_all('span', class_='note'):
-        note.decompose()
-=======
-    # Создаем копию тега для безопасного изменения
-    clean_tag = BeautifulSoup(str(tag), 'html.parser')
-    
-    # Удаляем примечания
->>>>>>> 7d76c081803689349ced2dde2249f08e24c7ad75
     for note in clean_tag.find_all('span', class_='note'):
         note.decompose()
     for item in clean_tag.find_all('span', class_='add'):
         item.decompose()
     for item in clean_tag.find_all('a', class_='pts_pn'):
         item.decompose()
-<<<<<<< HEAD
 
-=======
-    # <<< КОНЕЦ ИЗМЕНЕНИЙ
->>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
-    
-    # Получаем текст с сохранением переносов строк
->>>>>>> 7d76c081803689349ced2dde2249f08e24c7ad75
     text = clean_tag.get_text('\n', strip=False)
     text = '\n'.join(line.strip() for line in text.split('\n') if line.strip())
     return text
@@ -79,11 +58,6 @@ def get_text_length(tag):
     node = BeautifulSoup(str(tag), 'html.parser')
     for note in node.find_all('span', class_='note'):
         note.decompose()
-<<<<<<< HEAD
-    
-    return str(tag_copy)
-
-=======
 
     if tag.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'hr']:
         return 0.01
@@ -168,7 +142,6 @@ def extraporlative_splice(en_tags, pi_tags):
 
     return aligned_rows
 
->>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
 def process_sutta(html_filepath, output_dir="output"):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -192,39 +165,8 @@ def process_sutta(html_filepath, output_dir="output"):
         print(f"  [ПРЕДУПРЕЖДЕНИЕ] Не найден контент на английском или пали в файле {html_filepath}")
         return
 
-<<<<<<< HEAD
     def is_separator(tag):
         return tag.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'hr']
-=======
-    # Обрабатываем английский контент по блокам, разделенным <hr>
-    en_blocks = []
-    current_block = []
-<<<<<<< HEAD
-    
-    for element in en_content.children:
-        if element.name == 'hr':
-            if current_block:
-                en_blocks.append(current_block)
-                current_block = []
-        else:
-            if element.name in ['p', 'div']:
-                current_block.append(element)
-    
-=======
-    
-    for element in en_content.children:
-        if element.name == 'hr':
-            if current_block:
-                en_blocks.append(current_block)
-                current_block = []
-        else:
-            if element.name in ['p', 'div']:
-                current_block.append(element)
-    
->>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
-    if current_block:
-        en_blocks.append(current_block)
->>>>>>> 7d76c081803689349ced2dde2249f08e24c7ad75
 
     def split_into_blocks(content_div):
         blocks = []
@@ -242,7 +184,6 @@ def process_sutta(html_filepath, output_dir="output"):
             blocks.append(current_block)
         return blocks
 
-<<<<<<< HEAD
     en_blocks = split_into_blocks(en_content)
     pi_blocks = split_into_blocks(pali_content)
     
@@ -251,28 +192,6 @@ def process_sutta(html_filepath, output_dir="output"):
     for i in range(max_blocks):
         en_block = en_blocks[i] if i < len(en_blocks) else []
         pi_block = pi_blocks[i] if i < len(pi_blocks) else []
-=======
-    # Сопоставляем блоки
-    for i, (en_block, pali_block) in enumerate(zip(en_blocks, pali_blocks), start=1):
-        # Обрабатываем каждый абзац в блоке
-        for j, (en_p, pali_p) in enumerate(zip(en_block, pali_block), start=1):
-            key = f"{sutta_id}:{i}.{j}"
-<<<<<<< HEAD
-            
-            # Обрабатываем текст
-            en_data[key] = process_text(en_p)
-            pali_data[key] = process_text(pali_p)
-            
-=======
-            
-            # Обрабатываем текст
-            en_data[key] = process_text(en_p)
-            pali_data[key] = process_text(pali_p)
-            
->>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
-            # Генерируем HTML-структуру
-            html_data[key] = get_html_structure(en_p)
->>>>>>> 7d76c081803689349ced2dde2249f08e24c7ad75
 
         aligned_rows = extraporlative_splice(en_block, pi_block)
         
@@ -313,17 +232,8 @@ if __name__ == "__main__":
     else:
         print(f"Найдено {len(html_files)} HTML файлов для обработки.")
         for filepath in html_files:
-<<<<<<< HEAD
             try:
                 process_sutta(filepath)
             except Exception as e:
                 print(f"!!! КРИТИЧЕСКАЯ ОШИБКА при обработке файла {filepath}: {e}")
     print("\nОбработка завершена.")
-=======
-            process_sutta(filepath)
-<<<<<<< HEAD
-        print("\nОбработка завершена.")
-=======
-        print("\nОбработка завершена.")
->>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
->>>>>>> 7d76c081803689349ced2dde2249f08e24c7ad75
