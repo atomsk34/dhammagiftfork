@@ -1,5 +1,0 @@
-{
-  "an9.72:1.0.1": "<p id=\"p1\">{}</p>",
-  "an9.72:1.0.2": "<p id=\"p2\">{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}<span class=\"add\">{}</span>{}</p>",
-  "an9.72:1.0.3": "<p id=\"p3\">{}<a class=\"pts_pn\" id=\"an.iv.462\"></a></p>"
-}

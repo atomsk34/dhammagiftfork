@@ -1,8 +1,0 @@
-{
-  "an5.39:1.0.1": "<p id=\"p1\">{}</p>",
-  "an5.39:1.0.2": "<p class=\"verse\" id=\"p2\">{}<br/>{}<br/>{}<br/>{}</p>",
-  "an5.39:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/>{}<br/>{}<br/>{}</p>",
-  "an5.39:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}</p>",
-  "an5.39:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<a class=\"pts_pn\" id=\"an.iii.44\"></a>\n<br/>{}<br/>{}</p>",
-  "an5.39:1.0.6": "<p class=\"verse\" id=\"p6\">{}<br/>{}<br/>{}<br/>{}<br/>{}</p>"
-}

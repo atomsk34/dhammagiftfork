@@ -1,0 +1,7 @@
+{
+  "sn4.6:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
+  "sn4.6:1.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
+  "sn4.6:2.1": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
+  "sn4.6:2.2": "<div class=\"verse\">\n<p id=\"p4\"><span class=\"parno\" id=\"v456\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p5\"><span class=\"parno\" id=\"v457\">{}</span>{}<br/>{}\n<br/>{}<br/>{}</p>\n<p id=\"p6\"><span class=\"parno\" id=\"v458\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
+  "sn4.6:3.1": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>"
+}

@@ -10,10 +10,29 @@ def process_text(tag):
     if not tag:
         return ""
     
+<<<<<<< HEAD
     # Удаляем примечания
     clean_tag = BeautifulSoup(str(tag), 'html.parser')
     for note in clean_tag.find_all('span', class_='note'):
         note.decompose()
+=======
+    # Создаем копию тега для безопасного изменения
+    clean_tag = BeautifulSoup(str(tag), 'html.parser')
+    
+    # Удаляем примечания
+    for note in clean_tag.find_all('span', class_='note'):
+        note.decompose()
+        
+    # >>> НАЧАЛО ИЗМЕНЕНИЙ
+    # Удаляем <span class="add">
+    for item in clean_tag.find_all('span', class_='add'):
+        item.decompose()
+        
+    # Удаляем <a class="pts_pn">
+    for item in clean_tag.find_all('a', class_='pts_pn'):
+        item.decompose()
+    # <<< КОНЕЦ ИЗМЕНЕНИЙ
+>>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
     
     # Получаем текст с сохранением переносов строк
     text = clean_tag.get_text('\n', strip=False)
@@ -38,9 +57,25 @@ def get_html_structure(tag):
     # Удаляем примечания
     for note in tag_copy.find_all('span', class_='note'):
         note.decompose()
+<<<<<<< HEAD
     
     return str(tag_copy)
 
+=======
+
+    # >>> НАЧАЛО ИЗМЕНЕНИЙ
+    # Удаляем <span class="add">
+    for item in tag_copy.find_all('span', class_='add'):
+        item.decompose()
+        
+    # Удаляем <a class="pts_pn">
+    for item in tag_copy.find_all('a', class_='pts_pn'):
+        item.decompose()
+    # <<< КОНЕЦ ИЗМЕНЕНИЙ
+        
+    return str(tag_copy)
+
+>>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
 def process_sutta(html_filepath, output_dir="output"):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -72,6 +107,7 @@ def process_sutta(html_filepath, output_dir="output"):
     # Обрабатываем английский контент по блокам, разделенным <hr>
     en_blocks = []
     current_block = []
+<<<<<<< HEAD
     
     for element in en_content.children:
         if element.name == 'hr':
@@ -82,6 +118,18 @@ def process_sutta(html_filepath, output_dir="output"):
             if element.name in ['p', 'div']:
                 current_block.append(element)
     
+=======
+    
+    for element in en_content.children:
+        if element.name == 'hr':
+            if current_block:
+                en_blocks.append(current_block)
+                current_block = []
+        else:
+            if element.name in ['p', 'div']:
+                current_block.append(element)
+    
+>>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
     if current_block:
         en_blocks.append(current_block)
 
@@ -106,11 +154,19 @@ def process_sutta(html_filepath, output_dir="output"):
         # Обрабатываем каждый абзац в блоке
         for j, (en_p, pali_p) in enumerate(zip(en_block, pali_block), start=1):
             key = f"{sutta_id}:{i}.{j}"
+<<<<<<< HEAD
             
             # Обрабатываем текст
             en_data[key] = process_text(en_p)
             pali_data[key] = process_text(pali_p)
             
+=======
+            
+            # Обрабатываем текст
+            en_data[key] = process_text(en_p)
+            pali_data[key] = process_text(pali_p)
+            
+>>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0
             # Генерируем HTML-структуру
             html_data[key] = get_html_structure(en_p)
 
@@ -139,4 +195,8 @@ if __name__ == "__main__":
         print(f"Найдено {len(html_files)} HTML файлов для обработки.")
         for filepath in html_files:
             process_sutta(filepath)
+<<<<<<< HEAD
         print("\nОбработка завершена.")
+=======
+        print("\nОбработка завершена.")
+>>>>>>> d4d4d880c4d05a38c208dfd580bfb21adab474c0

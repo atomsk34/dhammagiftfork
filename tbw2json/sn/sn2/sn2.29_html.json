@@ -1,0 +1,17 @@
+{
+  "sn2.29:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.29:1.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn2.29:2.1": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn2.29:3.1": "<p id=\"p4\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn2.29:4.1": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn2.29:4.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.29:5.1": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.29:5.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn2.29:5.3": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.29:5.4": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.29:5.5": "<p id=\"p11\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn2.29:6.1": "<p id=\"p12\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.29:6.2": "<div class=\"verse\">\n<p id=\"p13\"><span class=\"parno\" id=\"v363\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
+  "sn2.29:7.1": "<p id=\"p14\"><span class=\"parno\">{}</span>{}</p>",
+  "sn2.29:7.2": "<div class=\"verse\">\n<p id=\"p15\"><span class=\"parno\" id=\"v364\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>"
+}

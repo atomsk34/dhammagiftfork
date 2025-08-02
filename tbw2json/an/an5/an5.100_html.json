@@ -1,0 +1,16 @@
+{
+  "an5.100:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}{}{}{}</p>",
+  "an5.100:1.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}{}{}</p>",
+  "an5.100:2.1": "<p><span class=\"parno\">{}</span>{}</p>",
+  "an5.100:3.1": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
+  "an5.100:3.2": "<p>{}</p>",
+  "an5.100:3.3": "<p>{}</p>",
+  "an5.100:4.1": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
+  "an5.100:4.2": "<p>{}{}</p>",
+  "an5.100:4.3": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
+  "an5.100:4.4": "<p id=\"p8\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an5.100:5.1": "<p id=\"p9\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an5.100:5.2": "<p id=\"p10\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an5.100:5.3": "<p>{}</p>",
+  "an5.100:6.1": "<p id=\"p11\"><span class=\"parno\">{}</span>{}</p>"
+}

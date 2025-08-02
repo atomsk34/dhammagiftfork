@@ -1,0 +1,6 @@
+{
+  "sn49.23-34:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
+  "sn49.23-34:1.2": "<p>{}</p>",
+  "sn49.23-34:2.1": "<p>{}<br/><br/></p>",
+  "sn49.23-34:3.1": "<div class=\"verse\">\n<p id=\"p2\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>"
+}

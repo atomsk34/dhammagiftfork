@@ -1,7 +1,0 @@
-{
-  "an3.33:1.0.1": "<p id=\"p1\">{}</p>",
-  "an3.33:1.0.2": "<p id=\"p2\">{}</p>",
-  "an3.33:1.0.3": "<p id=\"p3\">{}<a class=\"pts_pn\" id=\"an.i.134\"></a>{}<span class=\"note\" id=\"n369\"><span class=\"details\"><span class=\"p\">{}<a href=\"../snp/snp5.14.html#p1106\">{}</a>{}</span></span></span></p>",
-  "an3.33:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n370\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
-  "an3.33:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<br/>{}<span class=\"note\" id=\"n371\"><span class=\"details\"><span class=\"p\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}</span></span></span></p>"
-}

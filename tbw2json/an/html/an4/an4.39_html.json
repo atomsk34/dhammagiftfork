@@ -1,8 +1,0 @@
-{
-  "an4.39:1.0.1": "<p id=\"p1\">{}</p>",
-  "an4.39:1.0.2": "<p id=\"p2\">{}<span class=\"note\" id=\"n709\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}<i>{}</i>{}<a href=\"../dn/dn5.html#p79\">{}</a>{}</span></span></span>{}<span class=\"note\" id=\"n710\"><span class=\"details\"><span class=\"p\">{}</span></span></span></p>",
-  "an4.39:1.0.3": "<p class=\"verse\" id=\"p3\">{}<br/><span class=\"italic\">{}</span>{}<span class=\"italic\">{}</span>{}<a class=\"pts_pn\" id=\"an.ii.43\"></a> <span class=\"italic\">{}</span>{}<span class=\"note\" id=\"n711\"><span class=\"details\"><span class=\"p\">{}</span></span></span>\n<br/>{}<span class=\"note\" id=\"n712\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<i>{}</i>{}<i>{}</i>{}<small>{}</small>{}<img alt=\"\" class=\"calibre83\" src=\"images/000038.jpg\"/>{}<sup><small>{}</small></sup>{}<small>{}</small>{}<img alt=\"\" class=\"calibre84\" src=\"images/000047.jpg\"/>{}<img alt=\"\" class=\"calibre84\" src=\"images/000047.jpg\">{}<a href=\"an0-abbr.html\">{}</a>{}<i>{}</i>{}</img></span></span></span>\n<br/>{}</p>",
-  "an4.39:1.0.4": "<p class=\"verse\" id=\"p4\">{}<br/>{}<br/>{}<br/>{}</p>",
-  "an4.39:1.0.5": "<p class=\"verse\" id=\"p5\">{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
-  "an4.39:1.0.6": "<p class=\"verse\" id=\"p6\">{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>"
-}
