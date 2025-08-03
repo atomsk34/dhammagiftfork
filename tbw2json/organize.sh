@@ -1,3 +1,4 @@
+#copy to workdir
 cp /var/www/offline-data/theBuddhasWords/mn/* ./
 cp /var/www/offline-data/theBuddhasWords/dn/* ./
 cp /var/www/offline-data/theBuddhasWords/sn/* ./
@@ -10,7 +11,21 @@ cp /var/www/offline-data/theBuddhasWords/it/* ./
 cp /var/www/offline-data/theBuddhasWords/tha/* ./
 cp /var/www/offline-data/theBuddhasWords/thi/* ./
   
+#run scripts 
+.venv/bin/python converter.py
+.venv/bin/python add_titles.py
+#.venv/bin/python scIndexes.py - when script will be ready
 
+
+#organize all new files into folders
+mkdir ud iti dhp snp thag thig kn
+mv ud* ud/
+mv it* iti/
+mv dhp* dhp/
+mv snp* snp/
+mv tha* thag/
+mv thi* thig/
+mv ud iti dhp snp thag thig kn/
 
 mkdir mn dn
 mv mn* mn
@@ -23,17 +38,10 @@ mkdir sn an
 mv sn* sn/
 mv an* an/
 
-
-mkdir ud iti dhp snp thag thig kn
-mv ud* ud/
-mv iti* iti/
-mv dhp* dhp/
-mv snp* snp/
-mv tha* thag/
-mv thi* thig/
-mv ud iti dhp snp thag thig kn/
-
-
+#move to real sutta folders
+#
+# rename translators to actual ones for MN, DN before or after moving
+#
 rm -rf ../../kn
 mv kn ../../
 rm -rf ../../sn
@@ -50,41 +58,10 @@ mv mn ../../
 
 exit 0
 
-#kn organization
-cd kn
-cd snp
-mkdir vagga{1..5}
-for i in {1..5}
-do
-mv snp${i}.* vagga${i}
-done
-cd ..
-
-cd iti
-mkdir vagga{1..11}
-for i in {1..11}
-do
-mv iti${i}.* vagga${i}
-done
-cd ..
-
-
-
-cd ud
-mkdir vagga{1..8}
-for i in {1..8}
-do
-mv ud${i}.* vagga${i}
-done
-cd ..
-
-
-
-
-
-
+#rename translators in DN and MN
 
 # Bodhi
+cd dn
 mv dn1_translation-en-bodhi.json dn1_translation-en-bodhi.json
 mv dn2_translation-en-bodhi.json dn2_translation-en-bodhi.json
 mv dn15_translation-en-bodhi.json dn15_translation-en-bodhi.json
@@ -101,8 +78,12 @@ mv dn31_translation-en-bodhi.json dn31_translation-en-kelly.json
 for f in dn{3..14} dn{17..19} dn{21..30} dn33 dn34; do
   mv "${f}_translation-en-bodhi.json" "${f}_translation-en-walshe.json"
 done
+cd ..
 
-
-
+cd mn
+for i in {1..152}; do
+  echo mv "mn${i}_translation-en-bodhi.json" "mn${i}_translation-en-nyanamoli+bodhi.json"
+done
+cd ..
 
 
