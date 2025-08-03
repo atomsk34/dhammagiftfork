@@ -13,13 +13,15 @@ def process_text(tag_list):
     combined_html_str = "".join(str(t) for t in tag_list)
     clean_tag = BeautifulSoup(combined_html_str, 'html.parser')
 
-    # <<-- ИЗМЕНЕНИЕ: Удаляем теги с номерами параграфов -->>
+    # Удаляем остальные ненужные элементы
     for parno in clean_tag.find_all('span', class_='parno'):
         parno.decompose()
-
-    # Удаляем остальные ненужные элементы
     for note in clean_tag.find_all('span', class_='note'):
         note.decompose()
+    for brnum in clean_tag.find_all('span', class_='brnum'):
+        brnum.decompose()  # Исправлено: было note.decompose()
+    for lookup in clean_tag.find_all('span', class_='lookup'):
+        lookup.decompose()  # Исправлено: было note.decompose()
     for item in clean_tag.find_all('span', class_='add'):
         item.decompose()
     for item in clean_tag.find_all('a', class_='pts_pn'):
@@ -43,7 +45,7 @@ def get_html_structure(tag_list):
         if text_node.strip():
             text_node.replace_with('{}')
 
-    for selector, class_name in [('span', 'note'), ('span', 'add'), ('a', 'pts_pn')]:
+    for selector, class_name in [('span', 'note'), ('span', 'add'), ('a', 'pts_pn'), ('span', 'brnum'), ('span', 'lookup')]:
         for item in tag_copy.find_all(selector, class_=class_name):
             item.decompose()
 
@@ -239,3 +241,4 @@ if __name__ == "__main__":
             except Exception as e:
                 print(f"!!! КРИТИЧЕСКАЯ ОШИБКА при обработке файла {filepath}: {e}")
     print("\nОбработка завершена.")
+

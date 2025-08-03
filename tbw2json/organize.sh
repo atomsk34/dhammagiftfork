@@ -50,6 +50,38 @@ mv mn ../../
 
 exit 0
 
+#kn organization
+cd kn
+cd snp
+mkdir vagga{1..5}
+for i in {1..5}
+do
+mv snp${i}.* vagga${i}
+done
+cd ..
+
+cd iti
+mkdir vagga{1..11}
+for i in {1..11}
+do
+mv iti${i}.* vagga${i}
+done
+cd ..
+
+
+
+cd ud
+mkdir vagga{1..8}
+for i in {1..8}
+do
+mv ud${i}.* vagga${i}
+done
+cd ..
+
+
+
+
+
 
 
 # Bodhi
