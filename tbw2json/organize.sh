@@ -75,6 +75,25 @@ do
 done
 cd ../..
 
+
+cd kn/thag
+for file in tha*; do
+  new_name="thag${file:3}"
+  mv "$file" "$new_name"
+done
+cd ../..
+
+
+cd kn/thig
+for file in thi*; do
+  new_name="thig${file:3}"
+  mv "$file" "$new_name"
+done
+cd ../..
+
+
+
+
 #rename translators in DN and MN
 
 # Bodhi
