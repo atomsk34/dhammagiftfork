@@ -16,6 +16,8 @@ def process_text(tag_list):
     # Удаляем остальные ненужные элементы
     for parno in clean_tag.find_all('span', class_='parno'):
         parno.decompose()
+    for ms in clean_tag.find_all('span', class_='ms'):
+        ms.decompose()
     for note in clean_tag.find_all('span', class_='note'):
         note.decompose()
     for brnum in clean_tag.find_all('span', class_='brnum'):
