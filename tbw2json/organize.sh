@@ -56,23 +56,23 @@ mv mn ../../
 
 exit 0
 
-cd kn/snp
-mkdir vagga{1..5}
+cd kn/iti
+mv iti1-112_translation-en-bodhi.json  iti1-112_translation-en-thanissaro.json 
+cd ../..
 
-for i in {1..5}
-do
-  mv snp${i}.* vagga${i} 
-done
+
+cd kn/dhp
+for f in *bodhi*.json; do mv "$f" "${f//bodhi/buddharakkhita}"; done
+cd ../..
+
+
+cd kn/snp
+
 cd ../..
 
 
 cd kn/ud
-mkdir vagga{1..8}
-
-for i in {1..8}
-do
-  mv ud${i}.* vagga${i} 
-done
+for f in *bodhi*.json; do mv "$f" "${f//bodhi/anandajoti}"; done
 cd ../..
 
 
@@ -81,6 +81,7 @@ for file in tha*; do
   new_name="thag${file:3}"
   mv "$file" "$new_name"
 done
+for f in *bodhi*.json; do mv "$f" "${f//bodhi/sujato+walton}"; done
 cd ../..
 
 
@@ -89,6 +90,7 @@ for file in thi*; do
   new_name="thig${file:3}"
   mv "$file" "$new_name"
 done
+for f in *bodhi*.json; do mv "$f" "${f//bodhi/sujato+walton}"; done
 cd ../..
 
 
@@ -123,3 +125,20 @@ done
 cd ..
 
 
+
+
+
+#not user subfolder structure
+cd kn/snp
+mkdir vagga{1..5}
+
+for i in {1..5}
+do
+  mv snp${i}.* vagga${i} 
+done
+cd ../..
+
+
+
+#find translator
+grep "Translated from" *.html | sed -E 's/.*Translated from[^b]*by (.*)/\1/' | sort -ui
