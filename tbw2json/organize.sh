@@ -54,9 +54,26 @@ mv dn ../../
 mv mn ../../
 
 
-
-
 exit 0
+
+cd kn/snp
+mkdir vagga{1..5}
+
+for i in {1..5}
+do
+  mv snp${i}.* vagga${i} 
+done
+cd ../..
+
+
+cd kn/ud
+mkdir vagga{1..8}
+
+for i in {1..8}
+do
+  mv ud${i}.* vagga${i} 
+done
+cd ../..
 
 #rename translators in DN and MN
 
