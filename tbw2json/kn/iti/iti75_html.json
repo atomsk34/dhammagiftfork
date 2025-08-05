@@ -1,0 +1,15 @@
+{
+  "it:75.1": "<h2 id=\"p75\">{}</h2>",
+  "it:75.2": "<p id=\"p75-1\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>",
+  "it:75.3": "<p id=\"p75-2\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.4": "<p id=\"p75-3\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.5": "<p id=\"p75-4\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.6": "<p id=\"p75-5\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.7": "<p>{}</p>",
+  "it:75.8": "<p class=\"verse\" id=\"p75-6\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.9": "<p class=\"verse\" id=\"p75-7\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.10": "<p class=\"verse\" id=\"p75-8\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.11": "<p class=\"verse\" id=\"p75-9\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.12": "<p class=\"verse\" id=\"p75-10\"><span class=\"parno\">{}</span>{}</p>",
+  "it:75.13": "<p id=\"p75-11\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>"
+}

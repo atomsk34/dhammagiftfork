@@ -1,0 +1,7 @@
+{
+  "it:11.1": "<h2>{}</h2>",
+  "it:11.2": "<p id=\"p10-13-1\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>",
+  "it:11.3": "<p id=\"p10-13-2\"><span class=\"parno\">{}</span>{}</p>",
+  "it:11.4": "<p class=\"add\">{}</p>",
+  "it:11.5": "<hr/><p id=\"p10-13-4\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>"
+}

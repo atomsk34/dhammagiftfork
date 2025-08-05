@@ -1,0 +1,8 @@
+{
+  "it:58.1": "<h2 id=\"p58\">{}</h2>",
+  "it:58.2": "<p id=\"p58-1\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>",
+  "it:58.3": "<p id=\"p58-2\"><span class=\"parno\">{}</span>{}</p>",
+  "it:58.4": "<p class=\"verse\" id=\"p58-3\"><span class=\"parno\">{}</span>{}</p>",
+  "it:58.5": "<p class=\"verse\" id=\"p58-4\"><span class=\"parno\">{}</span>{}</p>",
+  "it:58.6": "<p id=\"p58-5\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>"
+}

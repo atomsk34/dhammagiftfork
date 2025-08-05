@@ -1,0 +1,13 @@
+{
+  "it:89.1": "<h2 id=\"p89\">{}</h2>",
+  "it:89.2": "<p id=\"p89-1\"><span class=\"parno\">{}</span>{}</p>",
+  "it:89.3": "<p id=\"p89-2\"><span class=\"parno\">{}</span>{}{}</p>",
+  "it:89.4": "<p class=\"verse\" id=\"p89-3\"><span class=\"parno\">{}</span>{}</p>",
+  "it:89.5": "<p class=\"verse\" id=\"p89-4\"><span class=\"parno\">{}</span>{}</p>",
+  "it:89.6": "<p class=\"verse\" id=\"p89-5\"><span class=\"parno\">{}</span>{}</p>",
+  "it:89.7": "<p class=\"verse\" id=\"p89-6\"><span class=\"parno\">{}</span>{}</p>",
+  "it:89.8": "<p class=\"verse\" id=\"p89-7\"><span class=\"parno\">{}</span>{}</p>",
+  "it:89.9": "<p class=\"verse\" id=\"p89-8\"><span class=\"parno\">{}</span>{}</p>",
+  "it:89.10": "<p class=\"verse\" id=\"p89-9\"><span class=\"parno\">{}</span>{}</p><hr/>",
+  "it:89.11": "<p id=\"p89-10\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>"
+}
