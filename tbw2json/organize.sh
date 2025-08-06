@@ -16,6 +16,12 @@ cp /var/www/offline-data/theBuddhasWords/thi/* ./
 .venv/bin/python add_titles.py
 #.venv/bin/python scIndexes.py - when script will be ready
 
+#for iti
+.venv/bin/python iti_conv.py 
+#if want to split iti into 112 json
+.venv/bin/python process_iti_json.py
+
+
 
 #organize all new files into folders
 mkdir ud iti dhp snp thag thig kn
@@ -57,6 +63,7 @@ mv mn ../../
 exit 0
 
 cd kn/iti
+for f in *it_*.json; do mv "$f" "${f//it_/iti1-112_}"; done
 mv iti1-112_translation-en-bodhi.json  iti1-112_translation-en-thanissaro.json 
 cd ../..
 
