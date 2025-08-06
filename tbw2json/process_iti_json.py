@@ -109,13 +109,50 @@ def process_and_split_json_files(directory):
             for sutta_num in sutta_numbers:
                 all_sutta_numbers.add(sutta_num)
                 for file_type, content_data in key_chapters_content[key_chapter].items():
-                    # Create a new dict for the output, replacing the key chapter with the correct sutta number
                     output_data = {}
-                    for old_key, value_content in content_data.items():
-                        parts = old_key.split(':')
-                        verse_part = parts[1].split('.')[1]
-                        new_key = f"it:{sutta_num}.{verse_part}"
-                        output_data[new_key] = value_content
+                    
+                    # Sort keys numerically to process them in order.
+                    def sort_key_func(k):
+                        try:
+                            # split 'it:1.2' into ['1', '2'] and convert to [1, 2] for sorting
+                            return [int(p) for p in k.split(':')[1].split('.')]
+                        except (ValueError, IndexError):
+                            # Fallback for keys that don't match the expected format
+                            return [0, 0]
+
+                    sorted_keys = sorted(content_data.keys(), key=sort_key_func)
+
+                    for old_key in sorted_keys:
+                        value_content = content_data[old_key]
+                        try:
+                            # e.g., old_key = 'it:5.2'
+                            key_parts = old_key.split(':')
+                            if len(key_parts) != 2:
+                                print(f"Warning: Malformed key '{old_key}' in {file_type} for sutta {sutta_num}. Skipping.")
+                                continue
+                            
+                            verse_parts = key_parts[1].split('.')
+                            if len(verse_parts) != 2:
+                                print(f"Warning: Malformed key '{old_key}' in {file_type} for sutta {sutta_num}. Skipping.")
+                                continue
+
+                            original_verse = verse_parts[1]
+
+                            # The title is identified by having verse '1'.
+                            if original_verse == '1':
+                                # This is the title. Assign it to chapter 0, verse 1.
+                                new_key = f"iti{sutta_num}:0.1"
+                                if ('translation' in file_type or 'root' in file_type) and isinstance(value_content, str):
+                                    # For translation and root files, remove prefix like "2 – " from title
+                                    value_content = re.sub(r'^\s*\d+\s*[–-]\s*', '', value_content)
+                            else:
+                                # This is body content. Assign it to chapter 1, keeping original verse number.
+                                new_key = f"iti{sutta_num}:1.{original_verse}"
+                            
+                            output_data[new_key] = value_content
+                        except Exception as e:
+                            print(f"Warning: Could not process key '{old_key}' in {file_type} for sutta {sutta_num}. Skipping. Error: {e}")
+                            continue
 
                     output_filename = f"iti{sutta_num}_{file_type}.json"
                     output_path = os.path.join(directory, output_filename)
