@@ -18,7 +18,7 @@
   "snp1.9:5.2": "<div class=\"verse\">\n<p><strong>{}</strong></p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
   "snp1.9:6.1": "<hr/>",
   "snp1.9:6.2": "<div class=\"verse\">\n<p><strong>{}</strong></p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
-  "snp1.9:6.3": "<div class=\"verse\">\n<p><strong>{}</strong></p>\n<p class=\"verse\">{}<sup>{}</sup>{}<br/>{}<br/>{}<br/>{}{}</p>\n</div>",
+  "snp1.9:6.3": "<div class=\"verse\">\n<p><strong>{}</strong></p>\n<p class=\"verse\">{}<sup>{}</sup>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
   "snp1.9:6.4": "<div class=\"verse\">\n<p><strong>{}</strong></p>\n<p class=\"verse\">{}<sup>{}</sup>{}<br/>{}<br/>{}<br/>{}</p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p><strong>{}</strong></p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p><strong>{}</strong></p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
   "snp1.9:6.5": "<div class=\"verse\">\n<p><strong>{}</strong></p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
   "snp1.9:6.6": "<div class=\"verse\">\n<p><strong>{}</strong></p>\n<p><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",

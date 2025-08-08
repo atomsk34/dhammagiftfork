@@ -11,12 +11,12 @@
   "an11.7:4.1": "<hr/>",
   "an11.7:4.2": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an11.7:5.1": "<hr/>",
-  "an11.7:5.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}{}{}</p>",
+  "an11.7:5.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "an11.7:6.1": "<hr/>",
   "an11.7:6.2": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p><p>{}</p>",
   "an11.7:7.1": "<hr/>",
   "an11.7:7.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
   "an11.7:8.1": "<hr/>",
   "an11.7:8.2": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
-  "an11.7:8.3": "<p id=\"p10\"><span class=\"parno\">{}</span>{}{}{}</p>"
+  "an11.7:8.3": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>"
 }

@@ -4,5 +4,5 @@
   "sn47.34:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn47.34:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
   "sn47.34:2.1": "<hr/>",
-  "sn47.34:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}{}</p>"
+  "sn47.34:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>"
 }

@@ -8,6 +8,6 @@
   "snp4.3:1.5": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp4.3:1.6": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp4.3:1.7": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "snp4.3:1.8": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "snp4.3:1.8": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp4.3:1.9": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
 }

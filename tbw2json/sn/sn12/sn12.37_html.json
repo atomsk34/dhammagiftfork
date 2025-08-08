@@ -3,5 +3,5 @@
   "sn12.37:0.2": "<li>{}</li></ul>",
   "sn12.37:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn12.37:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{} {}</p>",
-  "sn12.37:1.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}{}</p>"
+  "sn12.37:1.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>"
 }

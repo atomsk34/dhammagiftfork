@@ -14,7 +14,7 @@
   "snp1.4:3.3": "<p>{}</p>",
   "snp1.4:4.1": "<hr/>",
   "snp1.4:4.2": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "snp1.4:4.3": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "snp1.4:4.3": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp1.4:4.4": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp1.4:4.5": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp1.4:4.6": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",

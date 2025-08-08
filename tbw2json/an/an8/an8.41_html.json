@@ -8,10 +8,10 @@
   "an8.41:1.4": "<p> {}</p>",
   "an8.41:1.5": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "an8.41:1.6": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
-  "an8.41:1.7": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an8.41:1.7": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an8.41:1.8": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "an8.41:1.9": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
   "an8.41:1.10": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
-  "an8.41:1.11": "<p id=\"p9\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an8.41:1.11": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
   "an8.41:1.12": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>"
 }

@@ -9,8 +9,8 @@
   "sn48.53:2.3": "<p>{}</p>",
   "sn48.53:2.4": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "sn48.53:2.5": "<p>{}</p>",
-  "sn48.53:2.6": "<p id=\"p4\"><span class=\"parno\">{}</span>{}{}{}</p>",
-  "sn48.53:2.7": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn48.53:2.6": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
+  "sn48.53:2.7": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "sn48.53:2.8": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "sn48.53:2.9": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>"
 }

@@ -27,9 +27,9 @@
   "an6.55:6.6": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
   "an6.55:7.1": "<hr/>",
   "an6.55:7.2": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>",
-  "an6.55:7.3": "<p id=\"p11\"><span class=\"parno\">{}</span>{}{}{}</p>",
-  "an6.55:7.4": "<p id=\"p12\"><span class=\"parno\">{}</span>{}{}</p>",
-  "an6.55:7.5": "<p id=\"p13\"><span class=\"parno\">{}</span>{}{}{}</p>",
+  "an6.55:7.3": "<p id=\"p11\"><span class=\"parno\">{}</span>{}</p>",
+  "an6.55:7.4": "<p id=\"p12\"><span class=\"parno\">{}</span>{}</p>",
+  "an6.55:7.5": "<p id=\"p13\"><span class=\"parno\">{}</span>{}</p>",
   "an6.55:7.6": "<p id=\"p14\"><span class=\"parno\">{}</span>{}</p>",
   "an6.55:7.7": "<p id=\"p15\"><span class=\"parno\">{}</span>{}</p>",
   "an6.55:7.8": "<p id=\"p16\"><span class=\"parno\">{}</span>{}</p>",
@@ -39,7 +39,7 @@
   "an6.55:9.1": "<hr/>",
   "an6.55:9.2": "<p class=\"verse\" id=\"p18\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "an6.55:9.3": "<p class=\"verse\" id=\"p19\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "an6.55:9.4": "<p class=\"verse\" id=\"p20\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "an6.55:9.4": "<p class=\"verse\" id=\"p20\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "an6.55:9.5": "<p class=\"verse\" id=\"p21\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "an6.55:9.6": "<p class=\"verse\" id=\"p22\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
 }

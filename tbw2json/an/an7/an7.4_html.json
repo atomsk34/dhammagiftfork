@@ -6,7 +6,7 @@
   "an7.4:1.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
   "an7.4:2.1": "<hr/>",
   "an7.4:2.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
-  "an7.4:2.3": "<p id=\"p4\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an7.4:2.3": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "an7.4:2.4": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an7.4:2.5": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "an7.4:2.6": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",

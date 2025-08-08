@@ -20,7 +20,7 @@
   "sn1.33:1.16": "<p id=\"p14\"><span class=\"parno\">{}</span>{}</p>",
   "sn1.33:1.17": "<p class=\"verse\" id=\"p15\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "sn1.33:1.18": "<p class=\"verse\" id=\"p16\"><span class=\"parno\" id=\"v100\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn1.33:1.19": "<p id=\"p17\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn1.33:1.19": "<p id=\"p17\"><span class=\"parno\">{}</span>{}</p>",
   "sn1.33:1.20": "<p id=\"p18\"><span class=\"parno\">{}</span>{}</p>",
   "sn1.33:1.21": "<p class=\"verse\" id=\"p19\"><span class=\"parno\" id=\"v101\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
 }

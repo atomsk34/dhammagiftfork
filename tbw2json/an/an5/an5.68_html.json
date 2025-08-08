@@ -9,5 +9,5 @@
   "an5.68:3.2": "<p>{}</p>",
   "an5.68:4.1": "<hr/>",
   "an5.68:4.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
-  "an5.68:4.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>"
+  "an5.68:4.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>"
 }

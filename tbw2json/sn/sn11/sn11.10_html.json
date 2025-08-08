@@ -6,5 +6,5 @@
   "sn11.10:1.2": "<p>{}</p>",
   "sn11.10:2.1": "<hr/>",
   "sn11.10:2.2": "<div class=\"verse\">\n<p id=\"p2\"><span class=\"parno\" id=\"v900\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div><p></p><div class=\"verse\">\n<p id=\"p3\"><span class=\"parno\" id=\"v901\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div><p></p><div class=\"verse\">\n<p id=\"p4\"><span class=\"parno\" id=\"v902\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p5\"><span class=\"parno\" id=\"v903\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
-  "sn11.10:2.3": "<p id=\"p6\"><span class=\"parno\">{}</span>{}{}</p>"
+  "sn11.10:2.3": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>"
 }

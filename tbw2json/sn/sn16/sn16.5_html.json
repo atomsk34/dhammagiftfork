@@ -7,7 +7,7 @@
   "sn16.5:2.1": "<hr/>",
   "sn16.5:2.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "sn16.5:3.1": "<hr/>",
-  "sn16.5:3.2": "<p><span class=\"parno\">{}</span>{}{}{}</p>",
+  "sn16.5:3.2": "<p><span class=\"parno\">{}</span>{}</p>",
   "sn16.5:4.1": "<hr/>",
   "sn16.5:4.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "sn16.5:4.3": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>"

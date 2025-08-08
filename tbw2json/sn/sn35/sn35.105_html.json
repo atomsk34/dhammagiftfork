@@ -15,5 +15,5 @@
   "sn35.105:2.2": "<p><span class=\"parno\">{}</span>{}</p>",
   "sn35.105:3.1": "<hr/>",
   "sn35.105:3.2": "<p id=\"p20\"><span class=\"parno\">{}</span>{}</p>",
-  "sn35.105:3.3": "<p id=\"p21\"><span class=\"parno\">{}</span>{}{}</p>"
+  "sn35.105:3.3": "<p id=\"p21\"><span class=\"parno\">{}</span>{}</p>"
 }

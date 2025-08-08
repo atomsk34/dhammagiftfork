@@ -62,7 +62,7 @@
   "mn88:7.2": "<p id=\"p27\"><span class=\"parno\">{}</span>{}</p>",
   "mn88:7.3": "<p>{}</p>",
   "mn88:7.4": "<p id=\"p28\"><span class=\"parno\">{}</span>{}</p><p>{}</p>",
-  "mn88:7.5": "<p id=\"p29\"><span class=\"parno\">{}</span>{}{}</p>",
+  "mn88:7.5": "<p id=\"p29\"><span class=\"parno\">{}</span>{}</p>",
   "mn88:8.1": "<hr/>",
   "mn88:8.2": "<p>{}</p>",
   "mn88:8.3": "<p id=\"p30\"><span class=\"parno\">{}</span>{}</p>",

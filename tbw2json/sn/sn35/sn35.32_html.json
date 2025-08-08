@@ -19,7 +19,7 @@
   "sn35.32:3.5": "<p id=\"p25\"><span class=\"parno\">{}</span>{}</p>",
   "sn35.32:3.6": "<p id=\"p26\"><span class=\"parno\">{}</span>{}</p>",
   "sn35.32:4.1": "<hr/>",
-  "sn35.32:4.2": "<p id=\"p27\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn35.32:4.2": "<p id=\"p27\"><span class=\"parno\">{}</span>{}</p>",
   "sn35.32:5.1": "<hr/>",
   "sn35.32:5.2": "<p>{}</p>"
 }

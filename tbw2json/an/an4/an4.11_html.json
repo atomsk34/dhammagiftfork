@@ -8,7 +8,7 @@
   "an4.11:3.1": "<hr/>",
   "an4.11:3.2": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an4.11:4.1": "<hr/>",
-  "an4.11:4.2": "<p><span class=\"parno\">{}</span>{}{}</p>",
+  "an4.11:4.2": "<p><span class=\"parno\">{}</span>{}</p>",
   "an4.11:5.1": "<hr/>",
   "an4.11:5.2": "<p class=\"verse\" id=\"p9\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "an4.11:5.3": "<p class=\"verse\" id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",

@@ -10,7 +10,7 @@
   "an4.190:3.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "an4.190:4.1": "<hr/>",
   "an4.190:4.2": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
-  "an4.190:4.3": "<p id=\"p6\"><span class=\"parno\">{}</span>{}{}{}{}</p>",
+  "an4.190:4.3": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "an4.190:5.1": "<hr/>",
   "an4.190:5.2": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
   "an4.190:6.1": "<hr/>",

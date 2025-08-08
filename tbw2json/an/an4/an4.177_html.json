@@ -5,7 +5,7 @@
   "an4.177:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
   "an4.177:2.1": "<hr/>",
   "an4.177:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
-  "an4.177:2.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an4.177:2.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "an4.177:2.4": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "an4.177:2.5": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an4.177:2.6": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>"

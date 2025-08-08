@@ -9,12 +9,12 @@
   "ud5.5:1.6": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:1.7": "<p>{}</p>",
   "ud5.5:1.8": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
-  "ud5.5:1.9": "<p>{}{}</p>",
+  "ud5.5:1.9": "<p>{}</p>",
   "ud5.5:1.10": "<p>{}</p>",
   "ud5.5:2.1": "<hr/>",
   "ud5.5:2.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p><p>{}</p><p>{}</p><p>{}</p>",
   "ud5.5:3.1": "<hr/>",
-  "ud5.5:3.2": "<p id=\"p7\"><span class=\"parno\">{}</span>{}{}</p>",
+  "ud5.5:3.2": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:3.3": "<p>{}</p>",
   "ud5.5:3.4": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:3.5": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
@@ -32,7 +32,7 @@
   "ud5.5:5.2": "<p id=\"p18\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:5.3": "<p id=\"p19\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:5.4": "<p id=\"p20\"><span class=\"parno\">{}</span>{}</p>",
-  "ud5.5:5.5": "<p id=\"p21\"><span class=\"parno\">{}</span>{}{}{}</p>",
+  "ud5.5:5.5": "<p id=\"p21\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:5.6": "<p id=\"p22\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:5.7": "<p id=\"p23\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:5.8": "<p id=\"p24\"><span class=\"parno\">{}</span>{}</p>",
@@ -40,5 +40,5 @@
   "ud5.5:5.10": "<p id=\"p26\"><span class=\"parno\">{}</span>{}</p>",
   "ud5.5:5.11": "<p>{}</p>",
   "ud5.5:5.12": "<p id=\"p27\"><span class=\"parno\">{}</span>{}</p>",
-  "ud5.5:5.13": "<div class=\"verse\">\n<p id=\"p28\"><span class=\"parno\">{}</span>{}{}<br/>{}</p>\n</div>"
+  "ud5.5:5.13": "<div class=\"verse\">\n<p id=\"p28\"><span class=\"parno\">{}</span>{}<br/>{}</p>\n</div>"
 }

@@ -9,8 +9,8 @@
   "an8.28:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
   "an8.28:2.3": "<p>{}</p>",
   "an8.28:2.4": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
-  "an8.28:2.5": "<p id=\"note1687\"><span class=\"parno\">{}</span>{}{}</p>",
-  "an8.28:2.6": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an8.28:2.5": "<p id=\"note1687\"><span class=\"parno\">{}</span>{}</p>",
+  "an8.28:2.6": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an8.28:2.7": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "an8.28:2.8": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>"
 }

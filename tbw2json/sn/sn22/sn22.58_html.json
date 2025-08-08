@@ -3,7 +3,7 @@
   "sn22.58:0.2": "<li>{}</li></ul>",
   "sn22.58:0.3": "<h1 class='sutta-title'>{}</h1></header>",
   "sn22.58:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
-  "sn22.58:1.2": "<p><span class=\"parno\">{}</span>{}{}</p>",
+  "sn22.58:1.2": "<p><span class=\"parno\">{}</span>{}</p>",
   "sn22.58:1.3": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "sn22.58:1.4": "<p>{}</p>",
   "sn22.58:2.1": "<hr/>",

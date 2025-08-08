@@ -9,5 +9,5 @@
   "sn55.41:3.1": "<hr/>",
   "sn55.41:3.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "sn55.41:3.3": "<p class=\"verse\" id=\"p7\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "sn55.41:3.4": "<p class=\"verse\" id=\"p8\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}{}<br/>{}</p>"
+  "sn55.41:3.4": "<p class=\"verse\" id=\"p8\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
 }

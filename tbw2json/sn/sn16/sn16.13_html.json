@@ -9,7 +9,7 @@
   "sn16.13:1.5": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "sn16.13:1.6": "<p>{}</p>",
   "sn16.13:2.1": "<hr/>",
-  "sn16.13:2.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}{}{}{}</p>",
+  "sn16.13:2.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "sn16.13:2.3": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "sn16.13:3.1": "<hr/>"
 }

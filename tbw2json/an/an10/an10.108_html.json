@@ -10,7 +10,7 @@
   "an10.108:2.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "an10.108:3.1": "<hr/>",
   "an10.108:3.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
-  "an10.108:3.3": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an10.108:3.3": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an10.108:3.4": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "an10.108:3.5": "<p>{}</p>"
 }

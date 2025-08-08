@@ -9,7 +9,7 @@
   "mn52:2.2": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "mn52:2.3": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "mn52:3.1": "<hr/>",
-  "mn52:3.2": "<p id=\"7\"><span class=\"parno\">{}</span>{}{}{}{}</p>",
+  "mn52:3.2": "<p id=\"7\"><span class=\"parno\">{}</span>{}</p>",
   "mn52:3.3": "<p>{}</p>",
   "mn52:4.1": "<hr/>",
   "mn52:4.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}<br class=\"half\"/>{}</p>",
@@ -29,8 +29,8 @@
   "mn52:11.2": "<p><span class=\"parno\">{}</span>{}</p><p>{}</p>",
   "mn52:12.1": "<hr/>",
   "mn52:12.2": "<p id=\"p14\"><span class=\"parno\">{}</span>{}<br class=\"half\"/>{}</p>",
-  "mn52:12.3": "<p id=\"p15\"><span class=\"parno\">{}</span>{}{}</p>",
+  "mn52:12.3": "<p id=\"p15\"><span class=\"parno\">{}</span>{}</p>",
   "mn52:12.4": "<p>{}</p>",
-  "mn52:12.5": "<p id=\"p16\"><span class=\"parno\">{}</span>{}{}</p>",
-  "mn52:12.6": "<p id=\"p17\"><span class=\"parno\">{}</span>{}{}</p>"
+  "mn52:12.5": "<p id=\"p16\"><span class=\"parno\">{}</span>{}</p>",
+  "mn52:12.6": "<p id=\"p17\"><span class=\"parno\">{}</span>{}</p>"
 }

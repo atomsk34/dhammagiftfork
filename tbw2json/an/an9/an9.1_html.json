@@ -11,16 +11,16 @@
   "an9.1:3.3": "<p>{}</p>",
   "an9.1:4.1": "<hr/>",
   "an9.1:4.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
-  "an9.1:4.3": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an9.1:4.3": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an9.1:5.1": "<hr/>",
   "an9.1:5.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
-  "an9.1:5.3": "<p id=\"p7\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an9.1:5.3": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
   "an9.1:5.4": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
   "an9.1:5.5": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
   "an9.1:5.6": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>",
   "an9.1:5.7": "<p id=\"p11\"><span class=\"parno\">{}</span>{}</p>",
-  "an9.1:5.8": "<p id=\"p12\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an9.1:5.8": "<p id=\"p12\"><span class=\"parno\">{}</span>{}</p>",
   "an9.1:5.9": "<p id=\"p13\"><span class=\"parno\">{}</span>{}</p>",
   "an9.1:6.1": "<hr/>",
-  "an9.1:6.2": "<p><a id=\"p14\"></a><span class=\"parno\">{}</span>{}{}{}{}{}{}</p>"
+  "an9.1:6.2": "<p><a id=\"p14\"></a><span class=\"parno\">{}</span>{}</p>"
 }

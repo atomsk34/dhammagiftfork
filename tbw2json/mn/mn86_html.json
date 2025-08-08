@@ -18,7 +18,7 @@
   "mn86:4.4": "<p class=\"verse\" id=\"p7\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn86:4.5": "<p class=\"verse\" id=\"p8\"><span class=\"parno\">{}</span>{}<br/>{} <br/>{}<br/>{}</p>",
   "mn86:4.6": "<p class=\"verse\" id=\"p9\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "mn86:4.7": "<p class=\"verse\" id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}{}<br/>{}<br/>{}</p>",
+  "mn86:4.7": "<p class=\"verse\" id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn86:4.8": "<p id=\"p11\"><span class=\"parno\">{}</span>{}</p>",
   "mn86:4.9": "<p>{}</p>",
   "mn86:5.1": "<hr/>",

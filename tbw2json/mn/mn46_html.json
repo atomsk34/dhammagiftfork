@@ -7,7 +7,7 @@
   "mn46:2.1": "<hr/>",
   "mn46:2.2": "<p>{}</p>",
   "mn46:2.3": "<p>{}</p>",
-  "mn46:2.4": "<p id=\"p2\"><span class=\"parno\">{}</span>{}{}</p>",
+  "mn46:2.4": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
   "mn46:2.5": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "mn46:2.6": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "mn46:3.1": "<h3></h3>",

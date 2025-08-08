@@ -19,6 +19,6 @@
   "snp4.9:4.6": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp4.9:4.7": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp4.9:4.8": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
-  "snp4.9:4.9": "<p class=\"verse\"><span class=\"parno\">{}</span>{}{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "snp4.9:4.9": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp4.9:4.10": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"
 }

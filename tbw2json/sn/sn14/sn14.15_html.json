@@ -26,7 +26,7 @@
   "sn14.15:6.1": "<hr/>",
   "sn14.15:6.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "sn14.15:7.1": "<hr/>",
-  "sn14.15:7.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn14.15:7.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "sn14.15:8.1": "<hr/>",
   "sn14.15:8.2": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>"
 }

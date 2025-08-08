@@ -7,5 +7,5 @@
   "sn22.97:2.1": "<hr/>",
   "sn22.97:2.2": "<p><span class=\"parno\">{}</span>{}</p>",
   "sn22.97:3.1": "<hr/>",
-  "sn22.97:3.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}{}</p>"
+  "sn22.97:3.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>"
 }

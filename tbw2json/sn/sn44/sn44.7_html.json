@@ -25,7 +25,7 @@
   "sn44.7:2.20": "<p>{}</p>",
   "sn44.7:2.21": "<p>{}</p>",
   "sn44.7:3.1": "<hr/>",
-  "sn44.7:3.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn44.7:3.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "sn44.7:3.3": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "sn44.7:4.1": "<hr/>",
   "sn44.7:4.2": "<p id=\"p5\"><span class=\"parno\">{}</span>{}<br/><br/>{}<br/><br/></p>",
@@ -33,5 +33,5 @@
   "sn44.7:5.2": "<p>{}</p>",
   "sn44.7:5.3": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "sn44.7:5.4": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
-  "sn44.7:5.5": "<p id=\"p8\"><span class=\"parno\">{}</span>{}{}</p>"
+  "sn44.7:5.5": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>"
 }

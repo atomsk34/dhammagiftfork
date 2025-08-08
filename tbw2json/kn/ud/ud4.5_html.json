@@ -12,5 +12,5 @@
   "ud4.5:1.9": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "ud4.5:1.10": "<p>{}</p>",
   "ud4.5:1.11": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
-  "ud4.5:1.12": "<div class=\"verse\">\n<p id=\"p8\"><span class=\"parno\">{}</span>{}{}{}<br/>{}{}</p>\n</div>"
+  "ud4.5:1.12": "<div class=\"verse\">\n<p id=\"p8\"><span class=\"parno\">{}</span>{}<br/>{}</p>\n</div>"
 }

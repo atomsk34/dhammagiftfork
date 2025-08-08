@@ -14,8 +14,8 @@
   "an4.173:3.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
   "an4.173:3.3": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
   "an4.173:4.1": "<hr/>",
-  "an4.173:4.2": "<p id=\"p10\"><span class=\"parno\">{}</span>{}{}</p>",
-  "an4.173:4.3": "<p id=\"p11\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an4.173:4.2": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>",
+  "an4.173:4.3": "<p id=\"p11\"><span class=\"parno\">{}</span>{}</p>",
   "an4.173:5.1": "<hr/>",
-  "an4.173:5.2": "<p>{}{}{}</p>"
+  "an4.173:5.2": "<p>{}</p>"
 }

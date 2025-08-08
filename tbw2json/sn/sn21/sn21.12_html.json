@@ -8,7 +8,7 @@
   "sn21.12:2.2": "<p>{}</p>",
   "sn21.12:3.1": "<hr/>",
   "sn21.12:3.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
-  "sn21.12:3.3": "<p class=\"verse\" id=\"p3\"><span class=\"parno\">{}</span>{}{}<br/>{}\n<br/>{}<br/>{}</p>",
+  "sn21.12:3.3": "<p class=\"verse\" id=\"p3\"><span class=\"parno\">{}</span>{}<br/>{}\n<br/>{}<br/>{}</p>",
   "sn21.12:3.4": "<p class=\"verse\" id=\"p4\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "sn21.12:4.1": "<hr/>",
   "sn21.12:5.1": "<hr/>",

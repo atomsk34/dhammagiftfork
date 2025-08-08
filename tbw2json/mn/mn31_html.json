@@ -10,7 +10,7 @@
   "mn31:1.7": "<p>{}</p>",
   "mn31:1.8": "<p>{}</p><p>{}</p>",
   "mn31:2.1": "<hr/>",
-  "mn31:2.2": "<p>{}{}</p><p><span class=\"parno\">{}</span>{}</p>",
+  "mn31:2.2": "<p>{}</p><p><span class=\"parno\">{}</span>{}</p>",
   "mn31:3.1": "<hr/>",
   "mn31:3.2": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "mn31:3.3": "<p>{}</p>",
@@ -33,7 +33,7 @@
   "mn31:7.2": "<p id=\"p14\"><span class=\"parno\">{}</span>{}</p>",
   "mn31:7.3": "<p>{}</p>",
   "mn31:7.4": "<p>{}</p>",
-  "mn31:7.5": "<p id=\"p15\"><span class=\"parno\">{}</span>{}{}</p>",
+  "mn31:7.5": "<p id=\"p15\"><span class=\"parno\">{}</span>{}</p>",
   "mn31:7.6": "<p id=\"p16\"><span class=\"parno\">{}</span>{}</p>",
   "mn31:7.7": "<p id=\"p17\"><span class=\"parno\">{}</span>{}</p>"
 }

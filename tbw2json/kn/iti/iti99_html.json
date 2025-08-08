@@ -11,5 +11,5 @@
   "iti99:1.10": "<p>{}</p>",
   "iti99:1.11": "<p>{}</p>",
   "iti99:1.12": "<p class=\"verse\" id=\"p99-6\"><span class=\"parno\">{}</span>{}</p>",
-  "iti99:1.13": "<p class=\"verse\" id=\"p99-7\"><span class=\"parno\">{}</span>{}{}</p><hr/><p id=\"p99-8\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>"
+  "iti99:1.13": "<p class=\"verse\" id=\"p99-7\"><span class=\"parno\">{}</span>{}</p><hr/><p id=\"p99-8\"><span class=\"parno\">{}</span><span class=\"evam\">{}</span></p>"
 }

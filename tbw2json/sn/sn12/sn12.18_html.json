@@ -14,7 +14,7 @@
   "sn12.18:2.9": "<p>{}</p>",
   "sn12.18:2.10": "<p>{}</p>",
   "sn12.18:2.11": "<p>{}</p><p>{}</p>",
-  "sn12.18:2.12": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>",
-  "sn12.18:2.13": "<p id=\"p4\"><span class=\"parno\">{}</span>{}{}{}{}{}{}{}{}</p>",
+  "sn12.18:2.12": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
+  "sn12.18:2.13": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "sn12.18:2.14": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>"
 }

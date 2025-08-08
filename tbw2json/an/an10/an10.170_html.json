@@ -6,7 +6,7 @@
   "an10.170:2.1": "<hr/>",
   "an10.170:2.2": "<p>{}</p>",
   "an10.170:3.1": "<hr/>",
-  "an10.170:3.2": "<p class=\"verse\" id=\"p2\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "an10.170:3.2": "<p class=\"verse\" id=\"p2\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "an10.170:3.3": "<p class=\"verse\" id=\"p3\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "an10.170:3.4": "<p class=\"verse\" id=\"p4\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "an10.170:3.5": "<p class=\"verse\" id=\"p5\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",

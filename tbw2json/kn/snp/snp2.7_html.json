@@ -21,7 +21,7 @@
   "snp2.7:3.5": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:3.6": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:3.7": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "snp2.7:3.8": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "snp2.7:3.8": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:3.9": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:4.1": "<hr/>",
   "snp2.7:4.2": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
@@ -41,7 +41,7 @@
   "snp2.7:4.16": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:4.17": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:4.18": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "snp2.7:4.19": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "snp2.7:4.19": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:4.20": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.7:5.1": "<hr/>",
   "snp2.7:5.2": "<p>{}</p>"

@@ -7,5 +7,5 @@
   "an7.27:2.1": "<hr/>",
   "an7.27:2.2": "<p>{}</p>",
   "an7.27:2.3": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
-  "an7.27:2.4": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>"
+  "an7.27:2.4": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>"
 }

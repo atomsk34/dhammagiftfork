@@ -15,7 +15,7 @@
   "an8.64:3.8": "<p>  {}</p>",
   "an8.64:3.9": "<p> {}</p>",
   "an8.64:4.1": "<hr/>",
-  "an8.64:4.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}{}{}{}{}{} <i>{}</i>{}{}{}{}</p>",
-  "an8.64:4.3": "<p id=\"p9\"><span class=\"parno\">{}</span>{}{}{}{}{} <i>{}</i>{}{}{}{}</p>",
-  "an8.64:4.4": "<p id=\"p10\"><span class=\"parno\">{}</span>{}{}</p>"
+  "an8.64:4.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
+  "an8.64:4.3": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
+  "an8.64:4.4": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>"
 }

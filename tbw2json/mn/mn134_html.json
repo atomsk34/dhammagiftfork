@@ -13,7 +13,7 @@
   "mn134:3.4": "<p>{}</p>",
   "mn134:3.5": "<p>{}</p>",
   "mn134:4.1": "<hr/>",
-  "mn134:4.2": "<p>{}{}</p>",
+  "mn134:4.2": "<p>{}</p>",
   "mn134:5.1": "<hr/>",
   "mn134:5.2": "<div class=\"verse\"> <p id=\"p2\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> <p id=\"p3\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> <p id=\"p4\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> <p id=\"p5\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> </div>",
   "mn134:6.1": "<hr/>",

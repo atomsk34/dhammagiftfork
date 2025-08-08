@@ -10,7 +10,7 @@
   "an5.41:3.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
   "an5.41:3.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "an5.41:3.4": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
-  "an5.41:3.5": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
+  "an5.41:3.5": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "an5.41:3.6": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
   "an5.41:4.1": "<hr/>",
   "an5.41:4.2": "<p class=\"verse\" id=\"p7\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",

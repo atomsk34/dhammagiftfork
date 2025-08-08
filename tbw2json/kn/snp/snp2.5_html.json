@@ -10,7 +10,7 @@
   "snp2.5:1.7": "<p>{}</p>",
   "snp2.5:2.1": "<hr/>",
   "snp2.5:2.2": "<p>{}</p>",
-  "snp2.5:2.3": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
+  "snp2.5:2.3": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.5:2.4": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp2.5:2.5": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<i></i>{}</p>",
   "snp2.5:2.6": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>"

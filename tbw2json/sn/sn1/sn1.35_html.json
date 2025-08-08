@@ -12,7 +12,7 @@
   "sn1.35:4.2": "<p class=\"verse\"><span class=\"parno\" id=\"v110\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "sn1.35:4.3": "<p class=\"verse\"><span class=\"parno\" id=\"v111\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "sn1.35:4.4": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
-  "sn1.35:4.5": "<p>{}{}</p>",
+  "sn1.35:4.5": "<p>{}</p>",
   "sn1.35:5.1": "<hr/>",
   "sn1.35:5.2": "<p class=\"verse\"><span class=\"parno\" id=\"v112\">{}</span>{}<br/>{}<br/>{}<br/>{}</p><p></p>",
   "sn1.35:5.3": "<p class=\"verse\"><span class=\"parno\" id=\"v113\">{}</span>{}<br/>{}<br/>{}<br/>{}</p><p></p>",

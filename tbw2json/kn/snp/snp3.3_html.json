@@ -7,5 +7,5 @@
   "snp3.3:1.4": "<p>{}</p>",
   "snp3.3:1.5": "<p>{}</p>",
   "snp3.3:2.1": "<hr/>",
-  "snp3.3:2.2": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>\n<p>{}</p>\n<p>{}</p>\n<p>{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</p>"
+  "snp3.3:2.2": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>\n<p>{}</p>\n<p>{}</p>\n<p>{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</p>"
 }

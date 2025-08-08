@@ -5,7 +5,7 @@
   "sn55.43:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}</p>",
   "sn55.43:2.1": "<hr/>",
   "sn55.43:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}</p>",
-  "sn55.43:2.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}{}</p>",
+  "sn55.43:2.3": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "sn55.43:2.4": "<p>{}</p>",
   "sn55.43:3.1": "<hr/>",
   "sn55.43:3.2": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
