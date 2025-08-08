@@ -91,5 +91,5 @@
   "mn12:24.3": "<p>{}</p>",
   "mn12:24.4": "<p id=\"p61\"><span class=\"parno\">{}</span>{}{}</p>",
   "mn12:24.5": "<p>{}</p>",
-  "mn12:24.6": "<p><p id=\"p62\"><span class=\"parno\">{}</span>{}</p>\n</p>"
+  "mn12:24.6": "<p><p id=\"p62\"><span class=\"parno\">{}</span>{}</p> </p>"
 }

@@ -12,7 +12,7 @@
   "mn128:3.2": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "mn128:3.3": "<p class=\"verse\" id=\"p4\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn128:3.4": "<p class=\"verse\" id=\"p5\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "mn128:3.5": "<p class=\"verse\" id=\"p6\"><span class=\"parno\">{}</span>{}\n<br/>{}<br/>{}<br/>{}</p>",
+  "mn128:3.5": "<p class=\"verse\" id=\"p6\"><span class=\"parno\">{}</span>{} <br/>{}<br/>{}<br/>{}</p>",
   "mn128:3.6": "<p class=\"verse\" id=\"p7\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn128:3.7": "<p class=\"verse\" id=\"p8\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn128:3.8": "<p class=\"verse\" id=\"p9\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",

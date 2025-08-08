@@ -26,7 +26,7 @@
   "mn129:5.6": "<p>{}</p>",
   "mn129:5.7": "<p>{}</p>",
   "mn129:5.8": "<p>{}</p>",
-  "mn129:5.9": "<div class=\"verse\">\n<p id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p11\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
+  "mn129:5.9": "<div class=\"verse\"> <p id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> <p id=\"p11\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> </div>",
   "mn129:5.10": "<p id=\"p12\"><span class=\"parno\">{}</span>{}{}</p>",
   "mn129:6.1": "<h3></h3>",
   "mn129:6.2": "<p id=\"p13\"><span class=\"parno\">{}</span>{}</p>",

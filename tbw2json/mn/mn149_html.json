@@ -18,7 +18,7 @@
   "mn149:3.9": "<p id=\"p13\"><span class=\"parno\">{}</span>{}{}</p>",
   "mn149:3.10": "<p id=\"p14\"><span class=\"parno\">{}</span>{}{}</p>",
   "mn149:4.1": "<hr/>",
-  "mn149:4.2": "<p><span class=\"parno\">{}</span>{}\n<br class=\"half\"/>{}<br class=\"half\"/>{}<br class=\"half\"/>{}<br class=\"half\"/>{}</p>",
+  "mn149:4.2": "<p><span class=\"parno\">{}</span>{} <br class=\"half\"/>{}<br class=\"half\"/>{}<br class=\"half\"/>{}<br class=\"half\"/>{}</p>",
   "mn149:5.1": "<hr/>",
   "mn149:5.2": "<p id=\"p24\"><span class=\"parno\">{}</span>{}</p>"
 }

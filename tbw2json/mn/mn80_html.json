@@ -17,7 +17,7 @@
   "mn80:3.1": "<hr/>",
   "mn80:3.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p><p id=\"p9\"><span class=\"parno\">{}</span>{}</p><p id=\"p10\"><span class=\"parno\">{}</span>{}</p>",
   "mn80:3.3": "<p id=\"p11\"><span class=\"parno\">{}</span>{}</p>",
-  "mn80:3.4": "<p id=\"p12\"><span class=\"parno\">{}</span>{}<p id=\"p13\"><span class=\"parno\">{}</span>{}</p>\n<p id=\"p14\"><span class=\"parno\">{}</span>{}{}</p>\n<hr/>\n<p id=\"p15\"><span class=\"parno\">{}</span>{}{}</p>\n<p>{}{}</p>\n<p id=\"p16\"><span class=\"parno\">{}</span>{}{}</p>\n<p>{}</p>\n<hr/>\n<p id=\"p17\"><span class=\"parno\">{}</span>{}</p>\n<p>{}{}</p>\n<p id=\"p18\"><span class=\"parno\">{}</span>{}</p>\n<hr/>\n<p> </p>\n</p>",
+  "mn80:3.4": "<p id=\"p12\"><span class=\"parno\">{}</span>{}<p id=\"p13\"><span class=\"parno\">{}</span>{}</p> <p id=\"p14\"><span class=\"parno\">{}</span>{}{}</p> <hr/> <p id=\"p15\"><span class=\"parno\">{}</span>{}{}</p> <p>{}{}</p> <p id=\"p16\"><span class=\"parno\">{}</span>{}{}</p> <p>{}</p> <hr/> <p id=\"p17\"><span class=\"parno\">{}</span>{}</p> <p>{}{}</p> <p id=\"p18\"><span class=\"parno\">{}</span>{}</p> <hr/> <p> </p> </p>",
   "mn80:4.1": "",
   "mn80:5.1": "",
   "mn80:6.1": ""

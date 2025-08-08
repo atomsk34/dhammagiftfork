@@ -20,7 +20,7 @@
   "mn14:3.2": "<p id=\"14\"><span class=\"parno\">{}</span>{}</p>",
   "mn14:3.3": "<p id=\"p14a\">{}{}</p>",
   "mn14:3.4": "<p id=\"p15\"><span class=\"parno\">{}</span>{}</p>",
-  "mn14:3.5": "<p id=\"p16\"><span class=\"parno\">{}</span>{}\n<br class=\"half\" id=\"p16a\"/>{}</p>",
+  "mn14:3.5": "<p id=\"p16\"><span class=\"parno\">{}</span>{} <br class=\"half\" id=\"p16a\"/>{}</p>",
   "mn14:4.1": "<hr/>",
   "mn14:4.2": "<p id=\"p17\"><span class=\"parno\">{}</span>{}</p>",
   "mn14:5.1": "<hr/>",

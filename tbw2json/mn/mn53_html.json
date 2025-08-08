@@ -39,7 +39,7 @@
   "mn53:6.1": "<hr/>",
   "mn53:6.2": "<p id=\"p15\"><span class=\"parno\">{}</span>{}</p>",
   "mn53:6.3": "<p id=\"p16\"><span class=\"parno\">{}</span>{}</p>",
-  "mn53:6.4": "<div class=\"verse\">\n<p id=\"p17\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
+  "mn53:6.4": "<div class=\"verse\"> <p id=\"p17\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> </div>",
   "mn53:6.5": "<p id=\"p18\"><span class=\"parno\">{}</span>{}</p>",
   "mn53:6.6": "<p id=\"p19\"><span class=\"parno\">{}</span>{}</p>",
   "mn53:6.7": "<p id=\"p20\"><span class=\"parno\">{}</span>{}</p>"

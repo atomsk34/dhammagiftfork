@@ -13,7 +13,7 @@
   "mn116:2.1": "<hr/>",
   "mn116:2.2": "<p class=\"verse\" id=\"p9\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p>",
   "mn116:2.3": "<p class=\"verse\" id=\"p10\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
-  "mn116:2.4": "<p class=\"verse\" id=\"p11\"><span class=\"parno\">{}</span>{}\n<br/>{}<br/>{}<br/>{}</p>",
+  "mn116:2.4": "<p class=\"verse\" id=\"p11\"><span class=\"parno\">{}</span>{} <br/>{}<br/>{}<br/>{}</p>",
   "mn116:2.5": "<p class=\"verse\" id=\"p12\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn116:2.6": "<p class=\"verse\" id=\"p13\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn116:2.7": "<p class=\"verse\" id=\"p14\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",

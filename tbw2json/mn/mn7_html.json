@@ -19,11 +19,11 @@
   "mn7:5.1": "<hr/>",
   "mn7:5.2": "<p id=\"p9\"><span class=\"parno\">{}</span>{}{}</p>",
   "mn7:5.3": "<p>{}</p>",
-  "mn7:5.4": "<p id=\"p10\"><span class=\"parno\">{}</span>{}\n<br/>{}</p>",
+  "mn7:5.4": "<p id=\"p10\"><span class=\"parno\">{}</span>{} <br/>{}</p>",
   "mn7:6.1": "<hr/>",
   "mn7:6.2": "<p id=\"p11\"><span class=\"parno\">{}</span>{}</p>",
   "mn7:6.3": "<p>{}<br/>{}<br/>{}</p>",
-  "mn7:6.4": "<div class=\"verse\">\n<p id=\"p12\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}\n<br/>{}<br/>{}</p>\n<p id=\"p13\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p14\"><span class=\"parno\">{}</span>{}<br/>{}\n<br/>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p15\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
+  "mn7:6.4": "<div class=\"verse\"> <p id=\"p12\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{} <br/>{}<br/>{}</p> <p id=\"p13\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> <p id=\"p14\"><span class=\"parno\">{}</span>{}<br/>{} <br/>{}<br/>{}<br/>{}<br/>{}</p> <p id=\"p15\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p> </div>",
   "mn7:6.5": "<p id=\"p16\"><span class=\"parno\">{}</span>{}</p>",
   "mn7:6.6": "<p>{}</p>"
 }

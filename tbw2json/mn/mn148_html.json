@@ -29,7 +29,7 @@
   "mn148:7.2": "<p id=\"p22\"><span class=\"parno\">{}</span>{}{}</p>",
   "mn148:7.3": "<p>{}</p>",
   "mn148:8.1": "<h3></h3>",
-  "mn148:8.2": "<p id=\"p23\"><span class=\"parno\">{}</span>{}{}{}{}<br/>\n<hr/>\n<p id=\"p24\"><span class=\"parno\">{}</span>{}{}</p>\n<h3></h3>\n<p id=\"p25\"><span class=\"parno\">{}</span>{}{}</p>\n<hr/>\n<p><span class=\"parno\">{}</span>{}{}</p>\n<h3></h3>\n<p id=\"p31\"><span class=\"parno\">{}</span>{}</p>\n<p>{}</p>\n<p>{}{}</p>\n<p id=\"p32\"><span class=\"parno\">{}</span>{}</p>\n<hr/>\n</p>",
+  "mn148:8.2": "<p id=\"p23\"><span class=\"parno\">{}</span>{}{}{}{}<br/> <hr/> <p id=\"p24\"><span class=\"parno\">{}</span>{}{}</p> <h3></h3> <p id=\"p25\"><span class=\"parno\">{}</span>{}{}</p> <hr/> <p><span class=\"parno\">{}</span>{}{}</p> <h3></h3> <p id=\"p31\"><span class=\"parno\">{}</span>{}</p> <p>{}</p> <p>{}{}</p> <p id=\"p32\"><span class=\"parno\">{}</span>{}</p> <hr/> </p>",
   "mn148:9.1": "",
   "mn148:10.1": "",
   "mn148:11.1": "",

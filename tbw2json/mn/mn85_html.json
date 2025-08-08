@@ -86,7 +86,7 @@
   "mn85:17.10": "<p>{}</p>",
   "mn85:17.11": "<p id=\"p36\"><span class=\"parno\">{}</span>{}{}{}</p>",
   "mn85:18.1": "<hr/>",
-  "mn85:18.2": "<div class=\"verse\">\n<p id=\"p37\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p38\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
+  "mn85:18.2": "<div class=\"verse\"> <p id=\"p37\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> <p id=\"p38\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p> </div>",
   "mn85:19.1": "<hr/>",
   "mn85:19.2": "<p id=\"p39\"><span class=\"parno\">{}</span>{}</p>",
   "mn85:19.3": "<p id=\"p40\"><span class=\"parno\">{}</span>{}</p>",

@@ -64,7 +64,7 @@
   "mn114:8.4": "<p>{}</p>",
   "mn114:8.5": "<p>{}</p>",
   "mn114:9.1": "<h3></h3>",
-  "mn114:9.2": "<p id=\"p36\"><span class=\"parno\">{}</span>{}<br class=\"half\"/>{}<p>\n<p>{}</p>\n<h3></h3>\n<p id=\"p39\"><span class=\"parno\">{}</span>{}</p>\n<hr/>\n<p id=\"p40\"><span class=\"parno\">{}</span>{}</p>\n<p>{}</p>\n<p>{}</p>\n<p>{}</p>\n<hr/>\n<p id=\"p41\"><span class=\"parno\">{}</span>{}</p>\n<p>{}</p>\n<p>{}</p>\n<p>{}</p>\n<p>{}</p>\n<p>{}</p>\n<hr/>\n<p id=\"p42\"><span class=\"parno\">{}</span>{}</p>\n<p>{}{}{}</p>\n<p>{}</p>\n<p>{}</p>\n<h3></h3>\n<p id=\"p43\"><span class=\"parno\">{}</span>{}<br class=\"half\"/>{}</p>\n<p>{}<p>\n<h3></h3>\n<p id=\"p45\"><span class=\"parno\">{}</span>{}{}</p>\n<p id=\"p46\"><span class=\"parno\">{}</span>{}</p>\n</p></p></p></p>",
+  "mn114:9.2": "<p id=\"p36\"><span class=\"parno\">{}</span>{}<br class=\"half\"/>{}<p> <p>{}</p> <h3></h3> <p id=\"p39\"><span class=\"parno\">{}</span>{}</p> <hr/> <p id=\"p40\"><span class=\"parno\">{}</span>{}</p> <p>{}</p> <p>{}</p> <p>{}</p> <hr/> <p id=\"p41\"><span class=\"parno\">{}</span>{}</p> <p>{}</p> <p>{}</p> <p>{}</p> <p>{}</p> <p>{}</p> <hr/> <p id=\"p42\"><span class=\"parno\">{}</span>{}</p> <p>{}{}{}</p> <p>{}</p> <p>{}</p> <h3></h3> <p id=\"p43\"><span class=\"parno\">{}</span>{}<br class=\"half\"/>{}</p> <p>{}<p> <h3></h3> <p id=\"p45\"><span class=\"parno\">{}</span>{}{}</p> <p id=\"p46\"><span class=\"parno\">{}</span>{}</p> </p></p></p></p>",
   "mn114:10.1": "",
   "mn114:11.1": "",
   "mn114:12.1": "",

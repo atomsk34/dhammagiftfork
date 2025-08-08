@@ -70,7 +70,7 @@
   "mn8:8.1": "<h2></h2>",
   "mn8:8.2": "<p id=\"p60\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "mn8:9.1": "<h2></h2>",
-  "mn8:9.2": "<p><span class=\"parno\">{}</span>{}{}{}{}{}{}<br/>\n<br/>{}<br/>\n<br/>{}<br/>\n<br/>{}<br/>{}</p>",
+  "mn8:9.2": "<p><span class=\"parno\">{}</span>{}{}{}{}{}{}<br/> <br/>{}<br/> <br/>{}<br/> <br/>{}<br/>{}</p>",
   "mn8:10.1": "<hr/>",
   "mn8:11.1": "<h2></h2>",
   "mn8:11.2": "<p id=\"p64\"><span class=\"parno\">{}</span>{}<br/>{}{}</p>",
