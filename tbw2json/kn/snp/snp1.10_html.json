@@ -24,7 +24,7 @@
   "snp1.10:10.1": "<hr/>",
   "snp1.10:10.2": "<p><strong>{}</strong></p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp1.10:11.1": "<hr/>",
-  "snp1.10:11.2": "<p><strong>{}</strong></p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<i>{}</i>{}<br/>{}</p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
+  "snp1.10:11.2": "<p><strong>{}</strong></p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}{}</p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/> {}<br/>{}</p><p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp1.10:12.1": "<hr/>",
   "snp1.10:12.2": "<p><strong>{}</strong></p><p class=\"verse\">{}<br/>{}<br/>{}<br/>{}</p><p class=\"verse\">{}<br/>{}<br/>{}<br/>{}</p><p class=\"verse\">{}<br/>{}<br/>{}<br/>{}</p>"
 }

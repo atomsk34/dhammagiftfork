@@ -9,7 +9,7 @@
   "dhp334-359:3.1": "<hr/>",
   "dhp334-359:3.2": "<p id=\"p336\"><span class=\"parno\">{}</span>{}</p>",
   "dhp334-359:4.1": "<hr/>",
-  "dhp334-359:4.2": "<p id=\"p337\"><span class=\"parno\">{}</span>{}<i>{}</i>{}</p>",
+  "dhp334-359:4.2": "<p id=\"p337\"><span class=\"parno\">{}</span> {}</p>",
   "dhp334-359:5.1": "<hr/>",
   "dhp334-359:5.2": "<p id=\"p338\"><span class=\"parno\">{}</span>{}</p>",
   "dhp334-359:6.1": "<hr/>",

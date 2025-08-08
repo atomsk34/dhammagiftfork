@@ -2,7 +2,7 @@
   "tha3:0.1": "<h2>{}</h2>",
   "tha3:0.2": "<h3>{}</h3>",
   "tha3:1.1": "<h5>{}</h5>",
-  "tha3:1.2": "<div class=\"verse\">\n<p id=\"p219\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p220\"><span class=\"parno\">{}</span>{}<i>{}</i>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
+  "tha3:1.2": "<div class=\"verse\">\n<p id=\"p219\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p220\"><span class=\"parno\">{}</span> {}<br/>{}<br/>{}<br/>{}</p>\n</div>",
   "tha3:1.3": "<div class=\"verse\">\n<p id=\"p221\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",
   "tha3:2.1": "<h5>{}</h5>",
   "tha3:2.2": "<div class=\"verse\">\n<p id=\"p222\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p223\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n<p id=\"p224\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>\n</div>",

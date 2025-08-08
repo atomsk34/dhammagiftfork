@@ -12,7 +12,7 @@
   "snp3.9:2.1": "<hr/>",
   "snp3.9:2.2": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp3.9:2.3": "<p class=\"verse\"><span class=\"parno\">{}</span><i>{}</i>{}<br/>{}<br/>{}<br/>{}</p>",
-  "snp3.9:2.4": "<p class=\"verse\">{}<i>{}</i>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
+  "snp3.9:2.4": "<p class=\"verse\"> {}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp3.9:2.5": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp3.9:2.6": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "snp3.9:2.7": "<p class=\"verse\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p><p>{}</p>",

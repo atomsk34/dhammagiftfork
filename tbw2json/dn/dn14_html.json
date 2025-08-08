@@ -190,7 +190,7 @@
   "dn14:56.1": "<hr/>",
   "dn14:56.2": "<p><span class=\"parno\">{}</span>{}</p>",
   "dn14:57.1": "<hr/>",
-  "dn14:57.2": "<p id=\"p133\"><span class=\"parno\">{}</span>{}<i>{}</i>{}{}</p>",
+  "dn14:57.2": "<p id=\"p133\"><span class=\"parno\">{}</span> {}{}</p>",
   "dn14:57.3": "<p>{}</p>",
   "dn14:57.4": "<p id=\"p134\"><span class=\"parno\">{}</span>{}</p>",
   "dn14:58.1": "<hr/>",

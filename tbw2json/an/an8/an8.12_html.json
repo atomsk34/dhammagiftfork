@@ -33,7 +33,7 @@
   "an8.12:5.1": "<hr/>",
   "an8.12:5.2": "<p id=\"p25\"><span class=\"parno\">{}</span>{}</p>",
   "an8.12:5.3": "<p id=\"p26\"><span class=\"parno\">{}</span>{}</p>",
-  "an8.12:5.4": "<p id=\"p27\"><span class=\"parno\">{}</span>{}<i>{}</i>{}</p>",
+  "an8.12:5.4": "<p id=\"p27\"><span class=\"parno\">{}</span> {}</p>",
   "an8.12:5.5": "<p>{}</p>",
   "an8.12:5.6": "<p>{}{}{}</p>",
   "an8.12:5.7": "<p id=\"p28\"><span class=\"parno\">{}</span>{}</p>",

@@ -2,9 +2,9 @@
   "an10.168:0.1": "<article id='an10.168'><header><ul><li class='division'>{}</li>",
   "an10.168:0.2": "<li>{}</li></ul>",
   "an10.168:0.3": "<h1 class='sutta-title'>{}</h1></header>",
-  "an10.168:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span>{}<i>{}</i>{}</p>",
+  "an10.168:1.1": "<p id=\"p1\"><span class=\"parno\">{}</span> {}</p>",
   "an10.168:2.1": "<hr/>",
-  "an10.168:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span>{}<i>{}</i>{}{}</p>",
+  "an10.168:2.2": "<p id=\"p2\"><span class=\"parno\">{}</span> {}{}</p>",
   "an10.168:3.1": "<hr/>",
   "an10.168:3.2": "<p><span class=\"parno\">{}</span>{}</p>",
   "an10.168:3.3": "<p><span class=\"parno\">{}</span>{}</p>",
@@ -15,5 +15,5 @@
   "an10.168:3.8": "<p><span class=\"parno\">{}</span>{}</p>",
   "an10.168:3.9": "<p><span class=\"parno\">{}</span>{}</p>",
   "an10.168:4.1": "<hr/>",
-  "an10.168:4.2": "<p><span class=\"parno\">{}</span>{}<i>{}</i>{}</p>"
+  "an10.168:4.2": "<p><span class=\"parno\">{}</span> {}</p>"
 }

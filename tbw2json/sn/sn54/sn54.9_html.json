@@ -12,7 +12,7 @@
   "sn54.9:2.2": "<p id=\"p5\"><span class=\"parno\">{}</span>{}</p>",
   "sn54.9:2.3": "<p>{}</p>",
   "sn54.9:2.4": "<p id=\"p6\"><span class=\"parno\">{}</span>{}</p>",
-  "sn54.9:2.5": "<p>{}<i>{}</i>{}<a href=\"sn10.9.html#n591\">{}</a>{}</p>",
+  "sn54.9:2.5": "<p> {}<a href=\"sn10.9.html#n591\">{}</a>{}</p>",
   "sn54.9:2.6": "<p id=\"p7\"><span class=\"parno\">{}</span>{}{}{}</p>",
   "sn54.9:2.7": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
   "sn54.9:2.8": "<p>{}</p>"

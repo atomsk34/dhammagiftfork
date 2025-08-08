@@ -22,9 +22,9 @@
   "an8.20:7.2": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
   "an8.20:7.3": "<p>{}<br class=\"half\"/></p>",
   "an8.20:8.1": "<hr/>",
-  "an8.20:8.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{}{}<i>{}</i>{}</p><p>{}</p>",
+  "an8.20:8.2": "<p id=\"p8\"><span class=\"parno\">{}</span>{} {}</p><p>{}</p>",
   "an8.20:9.1": "<hr/>",
   "an8.20:9.2": "<p id=\"p9\"><span class=\"parno\">{}</span>{}</p>",
-  "an8.20:9.3": "<p>{}<br class=\"half\"/></p><p>{}<i>{}</i> {}</p>",
+  "an8.20:9.3": "<p>{}<br class=\"half\"/></p><p>  {}</p>",
   "an8.20:9.4": "<p>{}</p>"
 }

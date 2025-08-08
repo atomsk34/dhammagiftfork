@@ -9,7 +9,7 @@
   "an7.67:2.4": "<p id=\"p3\"><span class=\"parno\">{}</span>{}</p>",
   "an7.67:2.5": "<p id=\"p4\"><span class=\"parno\">{}</span>{}</p>",
   "an7.67:2.6": "<p id=\"p5\"><span class=\"parno\">{}</span>{}{}</p>",
-  "an7.67:2.7": "<p id=\"p6\"><span class=\"parno\">{}</span>{}<i>{}</i>{}{}</p>",
+  "an7.67:2.7": "<p id=\"p6\"><span class=\"parno\">{}</span> {}{}</p>",
   "an7.67:2.8": "<p id=\"p7\"><span class=\"parno\">{}</span>{}</p>",
   "an7.67:2.9": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
   "an7.67:2.10": "<p>{}</p>",

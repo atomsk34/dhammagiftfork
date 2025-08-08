@@ -49,7 +49,7 @@
   "mn108:12.5": "<p>{}</p>",
   "mn108:12.6": "<p id=\"p23\"><span class=\"parno\">{}</span>{}</p>",
   "mn108:12.7": "<p id=\"p24\"><span class=\"parno\">{}</span>{}</p>",
-  "mn108:12.8": "<p id=\"25\"><span class=\"parno\">{}</span>{}<span class=\"n1035\"><span class=\"details\"><span class=\"p\">{}<i>{}</i>{}<a href=\"mn108.html#p25\">{}</a>{}</span></span></span>{}</p>",
+  "mn108:12.8": "<p id=\"25\"><span class=\"parno\">{}</span>{}<span class=\"n1035\"><span class=\"details\"><span class=\"p\"> {}<a href=\"mn108.html#p25\">{}</a>{}</span></span></span>{}</p>",
   "mn108:13.1": "<hr/>",
   "mn108:13.2": "<p id=\"p26\"><span class=\"parno\">{}</span>{}</p>",
   "mn108:13.3": "<p id=\"p27\"><span class=\"parno\">{}</span>{}</p>",

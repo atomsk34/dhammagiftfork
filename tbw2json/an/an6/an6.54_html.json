@@ -21,7 +21,7 @@
   "an6.54:4.3": "<p>{}</p>",
   "an6.54:4.4": "<p>{}</p>",
   "an6.54:4.5": "<p id=\"p8\"><span class=\"parno\">{}</span>{}</p>",
-  "an6.54:4.6": "<p id=\"p9\"><span class=\"parno\">{}</span>{}<i>{}</i>{}<i>{}</i>{}</p>",
+  "an6.54:4.6": "<p id=\"p9\"><span class=\"parno\">{}</span>  {}</p>",
   "an6.54:4.7": "<p id=\"p10\"><span class=\"parno\">{}</span>{}</p>",
   "an6.54:4.8": "<p id=\"p11\"><span class=\"parno\">{}</span>{}{}</p>",
   "an6.54:4.9": "<p>{}{}</p>",

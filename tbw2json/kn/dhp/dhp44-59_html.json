@@ -13,10 +13,10 @@
   "dhp44-59:1.8": "<p id=\"p51\"><span class=\"parno\">{}</span>{}</p>",
   "dhp44-59:1.9": "<p id=\"p52\"><span class=\"parno\">{}</span>{}</p>",
   "dhp44-59:1.10": "<p id=\"p53\"><span class=\"parno\">{}</span>{}</p>",
-  "dhp44-59:1.11": "<p id=\"p54\"><span class=\"parno\">{}</span>{}<i>{}</i>{}</p>",
+  "dhp44-59:1.11": "<p id=\"p54\"><span class=\"parno\">{}</span> {}</p>",
   "dhp44-59:2.1": "<hr/>",
-  "dhp44-59:2.2": "<p id=\"p55\"><span class=\"parno\">{}</span>{}<i>{}</i>{}</p>",
-  "dhp44-59:2.3": "<p id=\"p56\"><span class=\"parno\">{}</span>{}<i>{}</i>{}</p>",
+  "dhp44-59:2.2": "<p id=\"p55\"><span class=\"parno\">{}</span> {}</p>",
+  "dhp44-59:2.3": "<p id=\"p56\"><span class=\"parno\">{}</span> {}</p>",
   "dhp44-59:2.4": "<p id=\"p57\"><span class=\"parno\">{}</span>{}</p>",
   "dhp44-59:2.5": "<p id=\"p58\"><span class=\"parno\">{}</span>{}</p>",
   "dhp44-59:2.6": "<p id=\"p59\"><span class=\"parno\">{}</span>{}</p>"
