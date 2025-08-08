@@ -217,7 +217,7 @@
   "dn14:66.2": "<p class=\"verse\" id=\"p149\"><span class=\"parno\">{}</span>{}<br/>{}{}<br/>{}</p>",
   "dn14:66.3": "<p class=\"verse\" id=\"p150\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}</p>",
   "dn14:66.4": "<p id=\"p151\"><span class=\"parno\">{}</span>{}</p>",
-  "dn14:66.5": "<p class=\"verse\" id=\"p152\"><span class=\"parno\">{}</span>{}<br/>{}\n<br/>{}<br/>{}</p>",
+  "dn14:66.5": "<p class=\"verse\" id=\"p152\"><span class=\"parno\">{}</span>{}<br/>{} <br/>{}<br/>{}</p>",
   "dn14:66.6": "<p id=\"p153\"><span class=\"parno\">{}</span>{}</p>",
   "dn14:67.1": "<h3>{}</h3>",
   "dn14:67.2": "<p id=\"p154\"><span class=\"parno\">{}</span>{}{}{}</p><p id=\"p155\"><span class=\"parno\">{}</span>{}</p><p>{}</p>",

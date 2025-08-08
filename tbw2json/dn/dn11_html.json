@@ -55,7 +55,7 @@
   "dn11:20.1": "<hr/>",
   "dn11:20.2": "<p class=\"verse\" id=\"p33\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "dn11:20.3": "<p id=\"p34\"><span class=\"parno\">{}</span>{}</p>",
-  "dn11:20.4": "<p class=\"verse\" id=\"p35\"><span class=\"parno\">{}</span>{}{}\n<br/>{}<br/>{}</p>",
+  "dn11:20.4": "<p class=\"verse\" id=\"p35\"><span class=\"parno\">{}</span>{}{} <br/>{}<br/>{}</p>",
   "dn11:20.5": "<p class=\"verse\" id=\"p36\"><span class=\"parno\">{}</span>{}<br/>{}<br/>{}<br/>{}<br/>{}<br/>{}</p>",
   "dn11:20.6": "<p id=\"p37\"><span class=\"parno\">{}</span>{}</p>"
 }

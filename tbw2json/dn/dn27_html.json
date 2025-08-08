@@ -52,7 +52,7 @@
   "dn27:16.3": "<p id=\"p32\"><span class=\"parno\">{}</span>{}</p>",
   "dn27:17.1": "<hr/>",
   "dn27:17.2": "<p id=\"p33\"><span class=\"parno\">{}</span>{}{}{}{}{}</p>",
-  "dn27:17.3": "<div class=\"verse\">\n<p>{}<br/>{}</p>\n</div>",
+  "dn27:17.3": "<div class=\"verse\"> <p>{}<br/>{}</p> </div>",
   "dn27:18.1": "<h3>{}</h3>",
   "dn27:18.2": "<p id=\"p34\"><span class=\"parno\">{}</span>{}{}{}{}{}</p>",
   "dn27:18.3": "<p>{}{}{}{}</p>",
