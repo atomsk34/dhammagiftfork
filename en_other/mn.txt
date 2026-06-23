@@ -64,11 +64,9 @@ mn86
 mn87
 mn90
 mn91
-stnp3.7
 mn93
 mn95
 mn97
-stnp3.9
 mn101
 mn102
 mn105
